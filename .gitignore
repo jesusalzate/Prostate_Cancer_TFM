@@ -1,1 +1,4 @@
 /Prostate_Segmentation/sample_images
+*.sh
+*.out
+/Bounding_Boxes/datasets/Prostate_Data
