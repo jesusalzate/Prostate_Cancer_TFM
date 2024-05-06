@@ -1,4 +1,6 @@
 /Prostate_Segmentation/sample_images
 *.sh
 *.out
+*.pth
+/home/jaalzate/Prostate_Cancer_TFM/Classification/logs/classification/Prostate/
 /Bounding_Boxes/datasets/Prostate_Data

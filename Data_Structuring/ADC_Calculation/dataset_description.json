@@ -1,0 +1,15 @@
+{
+    "Name": "ADC Calculation for DWI",  
+    "MIDSVersion": "1.1.0",  
+    "DatasetType": "derivative",  
+    "GeneratedBy":[
+        {
+            "Name": "Custom ADC Calculation",  
+            "Version": "1.0",  
+            "Description": "This process calculates the Apparent Diffusion Coefficient (ADC) for each DWI file in the dataset.",  
+            "CodeURL": null,  
+            "Container": null
+        }],  
+    "SourceDatasets": null,  
+    "ReferencesAndLinks": null 
+} 

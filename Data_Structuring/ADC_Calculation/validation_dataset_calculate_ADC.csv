@@ -1,0 +1,1102 @@
+subject,session,modality,image,orientation,sequence,shape,SeriesDescription,usable,can_calculate_adc,protocol_association
+sub-000063,ses-000063,anat,sub-000063_ses-000063_acq-fse_run-3_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000063,ses-000063,anat,sub-000063_ses-000063_acq-fse_run-8_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ax T2,True,False,
+sub-000063,ses-000063,anat,sub-000063_ses-000063_acq-fse_run-4_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 22])",CORONAL STIR FSE,True,False,
+sub-000063,ses-000063,anat,sub-000063_ses-000063_acq-fse_run-6_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ax T2,True,False,
+sub-000063,ses-000063,dwi,sub-000063_ses-000063_acq-bvalue_run-13_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000063,ses-000063,dwi,sub-000063_ses-000063_acq-bvalue_run-14_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000066,ses-000066,anat,sub-000066_ses-000066_acq-fse_run-3_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 28])",COR T1 FSE,True,False,
+sub-000066,ses-000066,anat,sub-000066_ses-000066_acq-fse_run-5_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 14])",sag T2 FRFSE,True,False,
+sub-000066,ses-000066,anat,sub-000066_ses-000066_acq-fse_run-8_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 34])",ax T2,True,False,
+sub-000066,ses-000066,anat,sub-000066_ses-000066_acq-fse_run-6_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 28])",sag T2 FRFSE,True,False,
+sub-000066,ses-000066,anat,sub-000066_ses-000066_acq-fse_run-4_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 28])",CORONAL STIR FSE,True,False,
+sub-000066,ses-000066,dwi,sub-000066_ses-000066_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 34, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000066,ses-000066,dwi,sub-000066_ses-000066_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 34, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000184,ses-000184,anat,sub-000184_ses-000184_acq-propeller_run-6_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 55])",Ax T2 PROP. PELVIS,True,False,
+sub-000184,ses-000184,anat,sub-000184_ses-000184_acq-propeller_run-3_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 33])",Ax T2 PROPELLER,True,False,
+sub-000184,ses-000184,anat,sub-000184_ses-000184_acq-propeller_run-300_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 33])",FL:D/Ax T2 PROPELLER,True,False,
+sub-000184,ses-000184,dwi,sub-000184_ses-000184_acq-adc_run-700_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 37])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000184,ses-000184,dwi,sub-000184_ses-000184_acq-adc_run-500_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 25])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000184,ses-000184,dwi,sub-000184_ses-000184_acq-bvalue_run-7_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 37, 2])",Ax DWI b50-800 PELVIS,True,True,Ax DWI b50-800 PELVIS
+sub-000184,ses-000184,dwi,sub-000184_ses-000184_acq-adc_run-501_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 25])",Exponential Apparent Diffusion Coefficient,False,False,
+sub-000179,ses-000179,anat,sub-000179_ses-000179_acq-fse_run-501_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([480, 480, 37])",T2W_TSE_TRA,True,False,
+sub-000179,ses-000179,anat,sub-000179_ses-000179_acq-fse_run-601_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([432, 432, 30])",T2W_TSE_COR_IQ,True,False,
+sub-000179,ses-000179,dwi,sub-000179_ses-000179_acq-bvalue_run-701_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([224, 224, 74])",DWI_EPI_SPAIR_TRA B2000,True,True,DWI_EPI_SPAIR_TRA B2000
+sub-000179,ses-000179,dwi,sub-000179_ses-000179_acq-adc_run-703_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([224, 224, 37])",dMAPA ADC,True,False,
+sub-000108,ses-000108,anat,sub-000108_ses-000108_acq-fse_run-9_bp-arm_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000108,ses-000108,anat,sub-000108_ses-000108_acq-fse_run-7_bp-arm_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000108,ses-000108,anat,sub-000108_ses-000108_acq-fse_run-6_bp-arm_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000108,ses-000108,anat,sub-000108_ses-000108_acq-fse_run-5_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000108,ses-000108,dwi,sub-000108_ses-000108_acq-bvalue_run-11_bp-arm_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000108,ses-000108,dwi,sub-000108_ses-000108_acq-bvalue_run-12_bp-arm_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000176,ses-000176,anat,sub-000176_ses-000176_acq-propeller_run-800_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",FL:D/Ax T2 PROPELLER,True,False,
+sub-000176,ses-000176,anat,sub-000176_ses-000176_acq-propeller_run-5_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 50])",Ax T2 PROP. PELVIS,True,False,
+sub-000176,ses-000176,anat,sub-000176_ses-000176_acq-propeller_run-8_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",Ax T2 PROPELLER,True,False,
+sub-000176,ses-000176,anat,sub-000176_ses-000176_acq-propeller_run-700_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 25])",FL:D/Cor T2 PROPELLER,True,False,
+sub-000176,ses-000176,anat,sub-000176_ses-000176_acq-propeller_run-3_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 17])",Sag T2 PROPELLER,True,False,
+sub-000176,ses-000176,anat,sub-000176_ses-000176_acq-propeller_run-7_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 25])",Cor T2 PROPELLER,True,False,
+sub-000176,ses-000176,anat,sub-000176_ses-000176_acq-propeller_run-300_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 17])",FL:D/Sag T2 PROPELLER,True,False,
+sub-000176,ses-000176,dwi,sub-000176_ses-000176_acq-adc_run-900_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 20])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000176,ses-000176,dwi,sub-000176_ses-000176_acq-adc_run-600_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 33])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000176,ses-000176,dwi,sub-000176_ses-000176_acq-bvalue_run-6_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 33, 2])",Ax DWI b50-800 PELVIS,True,True,Ax DWI b50-800 PELVIS
+sub-000176,ses-000176,dwi,sub-000176_ses-000176_acq-adc_run-901_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 20])",Exponential Apparent Diffusion Coefficient,False,False,
+sub-000178,ses-000178,dwi,sub-000178_ses-000178_acq-adc_run-6_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([192, 192, 30])",Dw EPI b0-150-1000 -1400_ADC,True,False,
+sub-000103,ses-000103,anat,sub-000103_ses-000103_acq-fse_run-8_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ax T2,True,False,
+sub-000103,ses-000103,anat,sub-000103_ses-000103_acq-fse_run-6_bp-abdomen_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000103,ses-000103,anat,sub-000103_ses-000103_acq-fse_run-4_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000103,ses-000103,dwi,sub-000103_ses-000103_acq-bvalue_run-11_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000103,ses-000103,dwi,sub-000103_ses-000103_acq-bvalue_run-10_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000155,ses-000155,anat,sub-000155_ses-000155_acq-fse_run-2_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 31])",SAG SSFSE ARC,True,False,
+sub-000155,ses-000155,anat,sub-000155_ses-000155_acq-fse_run-3_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 30])",Cor SSFSE ARC,True,False,
+sub-000155,ses-000155,anat,sub-000155_ses-000155_acq-propeller_run-800_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 28])",FL:D/Cor T2 PROPELLER,True,False,
+sub-000155,ses-000155,anat,sub-000155_ses-000155_acq-propeller_run-600_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 37])",FL:D/Ax T2 PROPELLER,True,False,
+sub-000155,ses-000155,anat,sub-000155_ses-000155_acq-propeller_run-8_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 28])",Cor T2 PROPELLER,True,False,
+sub-000155,ses-000155,anat,sub-000155_ses-000155_acq-fse_run-4_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",AX SSFSE ARC,True,False,
+sub-000155,ses-000155,anat,sub-000155_ses-000155_acq-propeller_run-6_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 37])",Ax T2 PROPELLER,True,False,
+sub-000155,ses-000155,dwi,sub-000155_ses-000155_acq-adc_run-700_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 28])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000155,ses-000155,dwi,sub-000155_ses-000155_acq-adc_run-701_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 28])",Exponential Apparent Diffusion Coefficient,False,False,
+sub-000078,ses-000078,anat,sub-000078_ses-000078_acq-fse_run-7_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 26])",sag T2 FRFSE,True,False,
+sub-000078,ses-000078,anat,sub-000078_ses-000078_acq-fse_run-6_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 26])",CORONAL STIR FSE,True,False,
+sub-000078,ses-000078,anat,sub-000078_ses-000078_acq-fse_run-9_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 38])",ax T2,True,False,
+sub-000078,ses-000078,dwi,sub-000078_ses-000078_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 38, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000078,ses-000078,dwi,sub-000078_ses-000078_acq-bvalue_run-12_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 38, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000162,ses-000162,dwi,sub-000162_ses-000162_acq-adc_run-6_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([192, 192, 30])",Dw EPI b0-150-1000 -1400_ADC,True,False,
+sub-000015,ses-000015,anat,sub-000015_ses-000015_acq-fse_run-9_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000015,ses-000015,anat,sub-000015_ses-000015_acq-fse_run-5_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 36])",ax T2,True,False,
+sub-000015,ses-000015,anat,sub-000015_ses-000015_acq-fse_run-2_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 20])",SAG T2 SSFSE BH,True,False,
+sub-000015,ses-000015,anat,sub-000015_ses-000015_acq-fse_run-8_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 17])",SAG T2 SSFSE BH,True,False,
+sub-000015,ses-000015,anat,sub-000015_ses-000015_acq-fse_run-4_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000015,ses-000015,dwi,sub-000015_ses-000015_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000015,ses-000015,dwi,sub-000015_ses-000015_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000042,ses-000042,anat,sub-000042_ses-000042_acq-fse_run-8_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 26])",CORONAL STIR FSE,True,False,
+sub-000042,ses-000042,anat,sub-000042_ses-000042_acq-fse_run-2_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 12])",SAG T2 SSFSE,True,False,
+sub-000042,ses-000042,anat,sub-000042_ses-000042_acq-fse_run-10_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000042,ses-000042,anat,sub-000042_ses-000042_acq-fse_run-7_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000042,ses-000042,anat,sub-000042_ses-000042_acq-fse_run-11_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 25])",ax T2,True,False,
+sub-000042,ses-000042,dwi,sub-000042_ses-000042_acq-bvalue_run-12_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 25, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000042,ses-000042,dwi,sub-000042_ses-000042_acq-bvalue_run-13_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 25, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000185,ses-000185,dwi,sub-000185_ses-000185_acq-bvalue_run-7_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",AX DWI B800,True,True,AX DWI B800
+sub-000185,ses-000185,dwi,sub-000185_ses-000185_acq-bvalue_run-8_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",AX DWI B1000,True,True,AX DWI B1000
+sub-000035,ses-000035,anat,sub-000035_ses-000035_acq-fse_run-10_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000035,ses-000035,anat,sub-000035_ses-000035_acq-fse_run-4_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([256, 256, 34])",SAG SSFSE,True,False,
+sub-000035,ses-000035,anat,sub-000035_ses-000035_acq-fse_run-2_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([256, 256, 30])",SAG SSFSE,True,False,
+sub-000035,ses-000035,anat,sub-000035_ses-000035_acq-fse_run-9_bp-abdomen_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 28])",CORONAL STIR FSE,True,False,
+sub-000035,ses-000035,anat,sub-000035_ses-000035_acq-fse_run-12_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",ax T2,True,False,
+sub-000035,ses-000035,dwi,sub-000035_ses-000035_acq-bvalue_run-13_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000035,ses-000035,dwi,sub-000035_ses-000035_acq-bvalue_run-14_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000169,ses-000169,dwi,sub-000169_ses-000169_acq-adc_run-7_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([192, 192, 30])",Dw EPI b0-150-1000 -1400_ADC,True,False,
+sub-000080,ses-000080,anat,sub-000080_ses-000080_acq-fse_run-2001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 30])",t2_haste STIR_cor_p3_4mm,True,False,
+sub-000080,ses-000080,anat,sub-000080_ses-000080_acq-blade_run-9001_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 25])",t2_tse_cor_p2_384 blade,True,False,
+sub-000080,ses-000080,anat,sub-000080_ses-000080_acq-blade_run-8001_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 30])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000080,ses-000080,anat,sub-000080_ses-000080_acq-fse_run-10001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 25])",t2_tse_tra_p2_384 ESTRICTO,True,False,
+sub-000080,ses-000080,anat,sub-000080_ses-000080_acq-blade_run-7001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 56])",t2_blade_tra,True,False,
+sub-000080,ses-000080,dwi,sub-000080_ses-000080_acq-bvalue_run-16001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",ep2d_diff GANGLIOS_b50_800_ CALC 1500 tra_p3_ADC,False,False,
+sub-000080,ses-000080,dwi,sub-000080_ses-000080_acq-bvalue_run-13001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 25])",resolve_diff_b50_1400_tra_p2_CALC_BVAL,False,False,
+sub-000080,ses-000080,dwi,sub-000080_ses-000080_acq-bvalue_run-17001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",ep2d_diff GANGLIOS_b50_800_ CALC 1500 tra_p3_CALC_BVAL,False,False,
+sub-000080,ses-000080,dwi,sub-000080_ses-000080_acq-bvalue_run-12001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 25])",resolve_diff_b50_1400_tra_p2_ADC,False,False,
+sub-000004,ses-000004,anat,sub-000004_ses-000004_acq-fse_run-17_bp-cervix_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000004,ses-000004,anat,sub-000004_ses-000004_acq-fse_run-10_bp-cervix_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000004,ses-000004,anat,sub-000004_ses-000004_acq-fse_run-29_bp-cervix_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000004,ses-000004,anat,sub-000004_ses-000004_acq-fse_run-20_bp-cervix_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000004,ses-000004,anat,sub-000004_ses-000004_acq-fse_run-6_bp-cervix_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000004,ses-000004,anat,sub-000004_ses-000004_acq-fse_run-7_bp-cervix_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000004,ses-000004,anat,sub-000004_ses-000004_acq-fse_run-25_bp-cervix_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000004,ses-000004,dwi,sub-000004_ses-000004_acq-bvalue_run-24_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000004,ses-000004,dwi,sub-000004_ses-000004_acq-bvalue_run-9_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000004,ses-000004,dwi,sub-000004_ses-000004_acq-bvalue_run-26_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000004,ses-000004,dwi,sub-000004_ses-000004_acq-bvalue_run-19_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000081,ses-000081,anat,sub-000081_ses-000081_acq-fse_run-6_bp-abdomen_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000081,ses-000081,anat,sub-000081_ses-000081_acq-fse_run-11_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 30])",ax T2,True,False,
+sub-000081,ses-000081,anat,sub-000081_ses-000081_acq-fse_run-8_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 26])",sag T2 FRFSE,True,False,
+sub-000081,ses-000081,dwi,sub-000081_ses-000081_acq-bvalue_run-13_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 30, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000081,ses-000081,dwi,sub-000081_ses-000081_acq-bvalue_run-14_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 30, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000026,ses-000026,anat,sub-000026_ses-000026_acq-fse_run-9_bp-arm_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ax T2,True,False,
+sub-000026,ses-000026,anat,sub-000026_ses-000026_acq-fse_run-6_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",COR STIR FSE,True,False,
+sub-000026,ses-000026,anat,sub-000026_ses-000026_acq-fse_run-7_bp-arm_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 28])",sag T2 FRFSE,True,False,
+sub-000026,ses-000026,dwi,sub-000026_ses-000026_acq-bvalue_run-11_bp-arm_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000026,ses-000026,dwi,sub-000026_ses-000026_acq-bvalue_run-10_bp-arm_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000034,ses-000034,anat,sub-000034_ses-000034_acq-blade_run-9001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 56])",AXIAL T2 TSE BLADE ADENOPATIAS,True,False,
+sub-000034,ses-000034,anat,sub-000034_ses-000034_acq-blade_run-11001_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 24])",t2_tse_cor_p2_384 blade,True,False,
+sub-000034,ses-000034,anat,sub-000034_ses-000034_acq-blade_run-12001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 30])",t2_tse_tra_p2_384 ESTRICTO CON BLADE,True,False,
+sub-000034,ses-000034,anat,sub-000034_ses-000034_acq-blade_run-10001_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 36])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000034,ses-000034,anat,sub-000034_ses-000034_acq-fse_run-2001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 30])",CORONAL HASTE STIR T2,True,False,
+sub-000034,ses-000034,dwi,sub-000034_ses-000034_acq-bvalue_run-19001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",AX DIF GANGLIOS HASTA RIÑON b50_800_CALC 1500_ADC,False,False,
+sub-000034,ses-000034,dwi,sub-000034_ses-000034_acq-adc_run-14001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([150, 76, 25])",AXIAL DIFUSION PROSTATA b50_1400_ADC,True,False,
+sub-000034,ses-000034,dwi,sub-000034_ses-000034_acq-bvalue_run-20001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",AX DIF GANGLIOS HASTA RIÑON b50_800_CALC 1500_CALC_BVAL,False,False,
+sub-000175,ses-000175,anat,sub-000175_ses-000175_acq-fse_run-501_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([480, 480, 30])",T2W_TSE_TRA_IQ,True,False,
+sub-000175,ses-000175,dwi,sub-000175_ses-000175_acq-adc_run-603_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([160, 160, 32])",dMAPA ADC,True,False,
+sub-000175,ses-000175,dwi,sub-000175_ses-000175_acq-bvalue_run-601_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([160, 160, 64])",DWI_EPI_SPAIR_TRA B2000,True,True,DWI_EPI_SPAIR_TRA B2000
+sub-000071,ses-000071,anat,sub-000071_ses-000071_acq-fse_run-6_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000071,ses-000071,anat,sub-000071_ses-000071_acq-fse_run-8_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ax T2,True,False,
+sub-000071,ses-000071,anat,sub-000071_ses-000071_acq-fse_run-5_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000071,ses-000071,dwi,sub-000071_ses-000071_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000071,ses-000071,dwi,sub-000071_ses-000071_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000018,ses-000018,anat,sub-000018_ses-000018_acq-fse_run-8_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000018,ses-000018,anat,sub-000018_ses-000018_acq-fse_run-5_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 26])",CORONAL STIR FSE,True,False,
+sub-000018,ses-000018,anat,sub-000018_ses-000018_acq-fse_run-3_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 26])",sag T2 FRFSE,True,False,
+sub-000018,ses-000018,dwi,sub-000018_ses-000018_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000018,ses-000018,dwi,sub-000018_ses-000018_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000024,ses-000024,anat,sub-000024_ses-000024_acq-fse_run-4_bp-abdomen_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000024,ses-000024,anat,sub-000024_ses-000024_acq-fse_run-7_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 27])",sag T2 FRFSE,True,False,
+sub-000024,ses-000024,anat,sub-000024_ses-000024_acq-fse_run-3_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 24])",COR T1 FSE,True,False,
+sub-000024,ses-000024,anat,sub-000024_ses-000024_acq-fse_run-8_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 30])",ax T2,True,False,
+sub-000024,ses-000024,anat,sub-000024_ses-000024_acq-fse_run-5_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 27])",sag T2 FRFSE,True,False,
+sub-000024,ses-000024,dwi,sub-000024_ses-000024_acq-bvalue_run-11_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 30, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000024,ses-000024,dwi,sub-000024_ses-000024_acq-bvalue_run-10_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 30, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000048,ses-000048,anat,sub-000048_ses-000048_acq-fse_run-7_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000048,ses-000048,anat,sub-000048_ses-000048_acq-fse_run-6_bp-abdomen_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000048,ses-000048,anat,sub-000048_ses-000048_acq-fse_run-8_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000048,ses-000048,dwi,sub-000048_ses-000048_acq-bvalue_run-10_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000048,ses-000048,dwi,sub-000048_ses-000048_acq-bvalue_run-11_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000084,ses-000084,anat,sub-000084_ses-000084_acq-fse_run-5_bp-cervix_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000084,ses-000084,anat,sub-000084_ses-000084_acq-fse_run-9_bp-cervix_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000084,ses-000084,anat,sub-000084_ses-000084_acq-fse_run-8_bp-cervix_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000084,ses-000084,anat,sub-000084_ses-000084_acq-fse_run-6_bp-cervix_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000084,ses-000084,dwi,sub-000084_ses-000084_acq-bvalue_run-11_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000084,ses-000084,dwi,sub-000084_ses-000084_acq-bvalue_run-12_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000127,ses-000127,anat,sub-000127_ses-000127_acq-fse_run-12_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000127,ses-000127,anat,sub-000127_ses-000127_acq-fse_run-10_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000127,ses-000127,anat,sub-000127_ses-000127_acq-fse_run-8_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000127,ses-000127,anat,sub-000127_ses-000127_acq-fse_run-17_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000127,ses-000127,anat,sub-000127_ses-000127_acq-fse_run-9_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000127,ses-000127,dwi,sub-000127_ses-000127_acq-bvalue_run-15_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000127,ses-000127,dwi,sub-000127_ses-000127_acq-bvalue_run-14_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000096,ses-000096,anat,sub-000096_ses-000096_acq-fse_run-3_bp-cervix_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 24])",COR T1 FSE,True,False,
+sub-000096,ses-000096,anat,sub-000096_ses-000096_acq-fse_run-7_bp-cervix_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000096,ses-000096,anat,sub-000096_ses-000096_acq-fse_run-4_bp-cervix_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000096,ses-000096,anat,sub-000096_ses-000096_acq-fse_run-5_bp-cervix_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 22])",sag T2 FRFSE,True,False,
+sub-000096,ses-000096,dwi,sub-000096_ses-000096_acq-bvalue_run-10_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000096,ses-000096,dwi,sub-000096_ses-000096_acq-bvalue_run-9_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000032,ses-000032,anat,sub-000032_ses-000032_acq-fse_run-8_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ax T2,True,False,
+sub-000032,ses-000032,anat,sub-000032_ses-000032_acq-fse_run-5_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 32])",sag T2 FRFSE,True,False,
+sub-000032,ses-000032,anat,sub-000032_ses-000032_acq-fse_run-9_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 26])",COR STIR FSE,True,False,
+sub-000032,ses-000032,dwi,sub-000032_ses-000032_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000032,ses-000032,dwi,sub-000032_ses-000032_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000146,ses-000146,anat,sub-000146_ses-000146_acq-fse_run-6_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000146,ses-000146,anat,sub-000146_ses-000146_acq-fse_run-8_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ax T2,True,False,
+sub-000146,ses-000146,anat,sub-000146_ses-000146_acq-fse_run-3_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 26])",sag T2 FRFSE,True,False,
+sub-000146,ses-000146,dwi,sub-000146_ses-000146_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000146,ses-000146,dwi,sub-000146_ses-000146_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000168,ses-000168,anat,sub-000168_ses-000168_acq-propeller_run-8_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 27])",Ax T2 PROPELLER,True,False,
+sub-000168,ses-000168,anat,sub-000168_ses-000168_acq-propeller_run-10_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 52])",Ax T2 PROP. PELVIS,True,False,
+sub-000168,ses-000168,anat,sub-000168_ses-000168_acq-propeller_run-600_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 16])",FL:D/Sag T2 PROPELLER,True,False,
+sub-000168,ses-000168,anat,sub-000168_ses-000168_acq-propeller_run-700_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 19])",FL:D/Cor T2 PROPELLER,True,False,
+sub-000168,ses-000168,anat,sub-000168_ses-000168_acq-propeller_run-7_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 19])",Cor T2 PROPELLER,True,False,
+sub-000168,ses-000168,anat,sub-000168_ses-000168_acq-fse_run-2_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 28])",SAG SSFSE ARC,True,False,
+sub-000168,ses-000168,anat,sub-000168_ses-000168_acq-fse_run-3_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 28])",Cor SSFSE ARC,True,False,
+sub-000168,ses-000168,anat,sub-000168_ses-000168_acq-propeller_run-800_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 27])",FL:D/Ax T2 PROPELLER,True,False,
+sub-000168,ses-000168,anat,sub-000168_ses-000168_acq-propeller_run-6_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 16])",Sag T2 PROPELLER,True,False,
+sub-000168,ses-000168,anat,sub-000168_ses-000168_acq-fse_run-4_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",AX SSFSE ARC,True,False,
+sub-000168,ses-000168,dwi,sub-000168_ses-000168_acq-adc_run-1100_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 32])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000168,ses-000168,dwi,sub-000168_ses-000168_acq-adc_run-900_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 21])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000168,ses-000168,dwi,sub-000168_ses-000168_acq-adc_run-901_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 21])",Exponential Apparent Diffusion Coefficient,False,False,
+sub-000168,ses-000168,dwi,sub-000168_ses-000168_acq-bvalue_run-11_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 32, 2])",Ax DWI b50-800 PELVIS,True,True,Ax DWI b50-800 PELVIS
+sub-000082,ses-000082,anat,sub-000082_ses-000082_acq-fse_run-4_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 30])",sag T2 FRFSE,True,False,
+sub-000082,ses-000082,anat,sub-000082_ses-000082_acq-fse_run-10_bp-abdomen_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 28])",CORONAL STIR FSE,True,False,
+sub-000082,ses-000082,anat,sub-000082_ses-000082_acq-fse_run-5_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",ax T2,True,False,
+sub-000082,ses-000082,dwi,sub-000082_ses-000082_acq-bvalue_run-12_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000082,ses-000082,dwi,sub-000082_ses-000082_acq-bvalue_run-11_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000138,ses-000138,anat,sub-000138_ses-000138_acq-propeller_run-3_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 16])",Sag T2 PROPELLER,True,False,
+sub-000138,ses-000138,anat,sub-000138_ses-000138_acq-propeller_run-8_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 16])",Cor T2 PROPELLER,True,False,
+sub-000138,ses-000138,anat,sub-000138_ses-000138_acq-propeller_run-800_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 16])",FL:D/Cor T2 PROPELLER,True,False,
+sub-000138,ses-000138,anat,sub-000138_ses-000138_acq-propeller_run-900_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",FL:D/Ax T2 PROPELLER,True,False,
+sub-000138,ses-000138,anat,sub-000138_ses-000138_acq-propeller_run-6_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 55])",Ax T2 PROP. PELVIS,True,False,
+sub-000138,ses-000138,anat,sub-000138_ses-000138_acq-propeller_run-300_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 16])",FL:D/Sag T2 PROPELLER,True,False,
+sub-000138,ses-000138,anat,sub-000138_ses-000138_acq-propeller_run-9_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",Ax T2 PROPELLER,True,False,
+sub-000138,ses-000138,dwi,sub-000138_ses-000138_acq-adc_run-1001_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 20])",Exponential Apparent Diffusion Coefficient,False,False,
+sub-000138,ses-000138,dwi,sub-000138_ses-000138_acq-adc_run-700_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 37])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000138,ses-000138,dwi,sub-000138_ses-000138_acq-adc_run-1000_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 20])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000130,ses-000130,anat,sub-000130_ses-000130_acq-fse_run-12001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 30])",AXIAL T2 TSE,True,False,
+sub-000130,ses-000130,anat,sub-000130_ses-000130_acq-blade_run-10001_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 30])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000130,ses-000130,anat,sub-000130_ses-000130_acq-fse_run-2001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 38])",CORONAL HASTE STIR T2,True,False,
+sub-000130,ses-000130,anat,sub-000130_ses-000130_acq-blade_run-9001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 60])",AXIAL T2 TSE BLADE ADENOPATIAS,True,False,
+sub-000130,ses-000130,anat,sub-000130_ses-000130_acq-blade_run-11001_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 28])",t2_tse_cor_p2_384 blade,True,False,
+sub-000130,ses-000130,dwi,sub-000130_ses-000130_acq-bvalue_run-19001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",AXIAL DIFUSION GANGLIOS b50_800_CALC 1500_ADC,True,False,
+sub-000130,ses-000130,dwi,sub-000130_ses-000130_acq-adc_run-14001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([150, 76, 30])",AXIAL DIFUSION PROSTATA b50_1400_ADC,True,False,
+sub-000160,ses-000160,anat,sub-000160_ses-000160_acq-propeller_run-700_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 21])",FL:D/Cor T2 PROPELLER,True,False,
+sub-000160,ses-000160,anat,sub-000160_ses-000160_acq-propeller_run-8_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 29])",Ax T2 PROPELLER,True,False,
+sub-000160,ses-000160,anat,sub-000160_ses-000160_acq-propeller_run-4_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 52])",Ax T2 PROP. PELVIS,True,False,
+sub-000160,ses-000160,anat,sub-000160_ses-000160_acq-propeller_run-800_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 29])",FL:D/Ax T2 PROPELLER,True,False,
+sub-000160,ses-000160,anat,sub-000160_ses-000160_acq-propeller_run-300_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 18])",FL:D/Sag T2 PROPELLER,True,False,
+sub-000160,ses-000160,anat,sub-000160_ses-000160_acq-propeller_run-7_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 21])",Cor T2 PROPELLER,True,False,
+sub-000160,ses-000160,anat,sub-000160_ses-000160_acq-propeller_run-3_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 18])",Sag T2 PROPELLER,True,False,
+sub-000160,ses-000160,dwi,sub-000160_ses-000160_acq-adc_run-901_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 22])",Exponential Apparent Diffusion Coefficient,False,False,
+sub-000160,ses-000160,dwi,sub-000160_ses-000160_acq-adc_run-600_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 35])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000160,ses-000160,dwi,sub-000160_ses-000160_acq-adc_run-900_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 22])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000160,ses-000160,dwi,sub-000160_ses-000160_acq-bvalue_run-6_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 35, 2])",Ax DWI b50-800 PELVIS,True,True,Ax DWI b50-800 PELVIS
+sub-000152,ses-000152,anat,sub-000152_ses-000152_acq-blade_run-9001_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 30])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000152,ses-000152,anat,sub-000152_ses-000152_acq-blade_run-10001_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 30])",t2_tse_cor_p2_384 blade,True,False,
+sub-000152,ses-000152,anat,sub-000152_ses-000152_acq-blade_run-8001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 51])",t2_blade_tra,True,False,
+sub-000152,ses-000152,anat,sub-000152_ses-000152_acq-fse_run-11001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 30])",t2_tse_tra_p2_384,True,False,
+sub-000152,ses-000152,anat,sub-000152_ses-000152_acq-fse_run-3001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 30])",t2_haste STIR_cor_p3_4mm,True,False,
+sub-000152,ses-000152,dwi,sub-000152_ses-000152_acq-bvalue_run-14001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 30])",resolve_diff_b50_1400_tra_p2_CALC_BVAL,False,False,
+sub-000152,ses-000152,dwi,sub-000152_ses-000152_acq-bvalue_run-13001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 30])",resolve_diff_b50_1400_tra_p2_ADC,False,False,
+sub-000152,ses-000152,dwi,sub-000152_ses-000152_acq-bvalue_run-17001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",ep2d_diff GANGLIOS_b50_800_ CALC 1500 tra_p3_ADC,False,False,
+sub-000152,ses-000152,dwi,sub-000152_ses-000152_acq-bvalue_run-18001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",ep2d_diff GANGLIOS_b50_800_ CALC 1500 tra_p3_CALC_BVAL,False,False,
+sub-000021,ses-000021,anat,sub-000021_ses-000021_acq-fse_run-5_bp-rm prostata con_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000021,ses-000021,anat,sub-000021_ses-000021_acq-fse_run-6_bp-rm prostata con_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000021,ses-000021,anat,sub-000021_ses-000021_acq-fse_run-8_bp-rm prostata con_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000021,ses-000021,dwi,sub-000021_ses-000021_acq-bvalue_run-10_bp-rm prostata con_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000021,ses-000021,dwi,sub-000021_ses-000021_acq-bvalue_run-11_bp-rm prostata con_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000076,ses-000076,anat,sub-000076_ses-000076_acq-blade_run-8001_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 30])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000076,ses-000076,anat,sub-000076_ses-000076_acq-blade_run-9001_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 25])",t2_tse_cor_p2_384 blade,True,False,
+sub-000076,ses-000076,anat,sub-000076_ses-000076_acq-fse_run-10001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 25])",t2_tse_tra_p2_384 ESTRICTO,True,False,
+sub-000076,ses-000076,anat,sub-000076_ses-000076_acq-blade_run-7001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 56])",t2_blade_tra,True,False,
+sub-000076,ses-000076,anat,sub-000076_ses-000076_acq-fse_run-2001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 30])",t2_haste STIR_cor_p3_4mm,True,False,
+sub-000076,ses-000076,dwi,sub-000076_ses-000076_acq-bvalue_run-12001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 25])",resolve_diff_b50_1400_tra_p2_ADC,False,False,
+sub-000076,ses-000076,dwi,sub-000076_ses-000076_acq-bvalue_run-13001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 25])",resolve_diff_b50_1400_tra_p2_CALC_BVAL,False,False,
+sub-000076,ses-000076,dwi,sub-000076_ses-000076_acq-bvalue_run-17001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",ep2d_diff GANGLIOS_b50_800_ CALC 1500 tra_p3_CALC_BVAL,False,False,
+sub-000076,ses-000076,dwi,sub-000076_ses-000076_acq-bvalue_run-16001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",ep2d_diff GANGLIOS_b50_800_ CALC 1500 tra_p3_ADC,False,False,
+sub-000009,ses-000009,anat,sub-000009_ses-000009_acq-fse_run-2001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 30])",t2_haste STIR_cor_p3_4mm,True,False,
+sub-000009,ses-000009,anat,sub-000009_ses-000009_acq-blade_run-7001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 56])",t2_blade_tra,True,False,
+sub-000009,ses-000009,anat,sub-000009_ses-000009_acq-blade_run-8001_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 30])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000009,ses-000009,anat,sub-000009_ses-000009_acq-fse_run-10001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 25])",t2_tse_tra_p2_384 ESTRICTO,True,False,
+sub-000009,ses-000009,anat,sub-000009_ses-000009_acq-blade_run-9001_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 25])",t2_tse_cor_p2_384 blade,True,False,
+sub-000009,ses-000009,dwi,sub-000009_ses-000009_acq-bvalue_run-12001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 25])",resolve_diff_b50_1400_tra_p2_ADC,False,False,
+sub-000009,ses-000009,dwi,sub-000009_ses-000009_acq-bvalue_run-17001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",ep2d_diff GANGLIOS_b50_800_ CALC 1500 tra_p3_CALC_BVAL,False,False,
+sub-000009,ses-000009,dwi,sub-000009_ses-000009_acq-bvalue_run-16001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",ep2d_diff GANGLIOS_b50_800_ CALC 1500 tra_p3_ADC,False,False,
+sub-000009,ses-000009,dwi,sub-000009_ses-000009_acq-bvalue_run-13001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 25])",resolve_diff_b50_1400_tra_p2_CALC_BVAL,False,False,
+sub-000115,ses-000115,anat,sub-000115_ses-000115_acq-fse_run-4_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 36])",ax T2,True,False,
+sub-000115,ses-000115,dwi,sub-000115_ses-000115_acq-bvalue_run-5_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 36, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000115,ses-000115,dwi,sub-000115_ses-000115_acq-bvalue_run-6_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 36, 2])",ax dif b1800,True,True,ax dif b1800
+sub-000023,ses-000023,anat,sub-000023_ses-000023_acq-blade_run-9001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 65])",AXIAL T2 TSE BLADE ADENOPATIAS,True,False,
+sub-000023,ses-000023,anat,sub-000023_ses-000023_acq-blade_run-10001_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 36])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000023,ses-000023,anat,sub-000023_ses-000023_acq-fse_run-2001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 30])",CORONAL HASTE STIR T2,True,False,
+sub-000023,ses-000023,anat,sub-000023_ses-000023_acq-blade_run-14001_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 28])",t2_tse_cor_p2_384 blade,True,False,
+sub-000023,ses-000023,dwi,sub-000023_ses-000023_acq-bvalue_run-19001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 60])",AX DIF GANGLIOS HASTA RIÑON b50_800_CALC 1500_ADC,False,False,
+sub-000023,ses-000023,dwi,sub-000023_ses-000023_acq-adc_run-12001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([150, 120, 30])",AXIAL DIFUSION PROSTATA b50_1400_ADC,True,False,
+sub-000023,ses-000023,dwi,sub-000023_ses-000023_acq-bvalue_run-20001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 60])",AX DIF GANGLIOS HASTA RIÑON b50_800_CALC 1500_CALC_BVAL,False,False,
+sub-000187,ses-000187,dwi,sub-000187_ses-000187_acq-bvalue_run-7_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",AX DWI B800,True,True,AX DWI B800
+sub-000187,ses-000187,dwi,sub-000187_ses-000187_acq-bvalue_run-8_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",AX DWI B1000,True,True,AX DWI B1000
+sub-000143,ses-000143,anat,sub-000143_ses-000143_acq-fse_run-301_bp-prostate_vp-ax_stir.nii.gz,ax,stir,"torch.Size([480, 480, 30])",AX STIR,True,False,
+sub-000143,ses-000143,dwi,sub-000143_ses-000143_acq-adc_run-903_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([336, 336, 30])",dadc map,True,False,
+sub-000062,ses-000062,anat,sub-000062_ses-000062_acq-fse_run-7_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 30])",sag T2 FRFSE,True,False,
+sub-000062,ses-000062,anat,sub-000062_ses-000062_acq-fse_run-6_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000062,ses-000062,anat,sub-000062_ses-000062_acq-fse_run-8_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 31])",ax T2,True,False,
+sub-000062,ses-000062,dwi,sub-000062_ses-000062_acq-bvalue_run-12_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 31, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000062,ses-000062,dwi,sub-000062_ses-000062_acq-bvalue_run-14_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 31, 2])",ax dif  b1500,True,True,ax dif  b1500
+sub-000062,ses-000062,dwi,sub-000062_ses-000062_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 31, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000159,ses-000159,anat,sub-000159_ses-000159_acq-fse_run-5_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 49])",AX SSFSE T2,True,False,
+sub-000159,ses-000159,anat,sub-000159_ses-000159_acq-fse_run-3_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 28])",SAGITAL SSFSE T2,True,False,
+sub-000159,ses-000159,anat,sub-000159_ses-000159_acq-fse_run-4_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 41])",COR SSFSE T2,True,False,
+sub-000151,ses-000151,anat,sub-000151_ses-000151_acq-fse_run-4_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000151,ses-000151,anat,sub-000151_ses-000151_acq-fse_run-6_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 28])",CORONAL STIR FSE,True,False,
+sub-000151,ses-000151,anat,sub-000151_ses-000151_acq-fse_run-9_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 30])",ax T2,True,False,
+sub-000151,ses-000151,anat,sub-000151_ses-000151_acq-fse_run-3_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000151,ses-000151,dwi,sub-000151_ses-000151_acq-bvalue_run-12_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 30, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000151,ses-000151,dwi,sub-000151_ses-000151_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 30, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000123,ses-000123,anat,sub-000123_ses-000123_acq-fse_run-5_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 27])",COR SSFSE T2,True,False,
+sub-000123,ses-000123,anat,sub-000123_ses-000123_acq-fse_run-3_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 20])",SAGITAL SSFSE T2,True,False,
+sub-000123,ses-000123,anat,sub-000123_ses-000123_acq-fse_run-4_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 38])",AX SSFSE T2,True,False,
+sub-000093,ses-000093,anat,sub-000093_ses-000093_acq-fse_run-5_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 28])",sag T2 FRFSE,True,False,
+sub-000093,ses-000093,anat,sub-000093_ses-000093_acq-fse_run-8_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 30])",ax T2,True,False,
+sub-000093,ses-000093,anat,sub-000093_ses-000093_acq-fse_run-4_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 30])",CORONAL STIR FSE,True,False,
+sub-000093,ses-000093,dwi,sub-000093_ses-000093_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 30, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000093,ses-000093,dwi,sub-000093_ses-000093_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 30, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000161,ses-000161,dwi,sub-000161_ses-000161_acq-adc_run-8_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([192, 192, 30])",Dw EPI b0-150-1000 -1400_ADC,True,False,
+sub-000097,ses-000097,anat,sub-000097_ses-000097_acq-fse_run-5_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 26])",CORONAL STIR FSE,True,False,
+sub-000097,ses-000097,anat,sub-000097_ses-000097_acq-fse_run-6_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 26])",sag T2 FRFSE,True,False,
+sub-000097,ses-000097,anat,sub-000097_ses-000097_acq-fse_run-9_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",ax T2,True,False,
+sub-000097,ses-000097,dwi,sub-000097_ses-000097_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000097,ses-000097,dwi,sub-000097_ses-000097_acq-bvalue_run-12_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000134,ses-000134,anat,sub-000134_ses-000134_acq-fse_run-7_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 28])",CORONAL STIR FSE,True,False,
+sub-000134,ses-000134,anat,sub-000134_ses-000134_acq-fse_run-5_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 28])",sag T2 FRFSE,True,False,
+sub-000134,ses-000134,anat,sub-000134_ses-000134_acq-fse_run-9_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 32])",ax T2,True,False,
+sub-000134,ses-000134,dwi,sub-000134_ses-000134_acq-bvalue_run-12_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 32, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000134,ses-000134,dwi,sub-000134_ses-000134_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 32, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000090,ses-000090,anat,sub-000090_ses-000090_acq-blade_run-11001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 56])",AXIAL T2 TSE BLADE ADENOPATIAS,True,False,
+sub-000090,ses-000090,anat,sub-000090_ses-000090_acq-fse_run-8001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 40])",CORONAL STIR T2 TSE,True,False,
+sub-000090,ses-000090,anat,sub-000090_ses-000090_acq-blade_run-14001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 32])",t2_tse_tra_p2_384 ESTRICTO CON BLADE,True,False,
+sub-000090,ses-000090,anat,sub-000090_ses-000090_acq-fse_run-3001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 30])",CORONAL HASTE STIR T2,True,False,
+sub-000090,ses-000090,dwi,sub-000090_ses-000090_acq-bvalue_run-21001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",AX DIF GANGLIOS HASTA RIÑON b50_800_CALC 1500_ADC,False,False,
+sub-000090,ses-000090,dwi,sub-000090_ses-000090_acq-bvalue_run-22001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",AX DIF GANGLIOS HASTA RIÑON b50_800_CALC 1500_CALC_BVAL,False,False,
+sub-000090,ses-000090,dwi,sub-000090_ses-000090_acq-adc_run-16001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([150, 76, 30])",AXIAL DIFUSION PROSTATA b50_1400_ADC,True,False,
+sub-000121,ses-000121,anat,sub-000121_ses-000121_acq-propeller_run-7_bp-rm prostata con_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 23])",Ax T2 PROPELLER,True,False,
+sub-000121,ses-000121,anat,sub-000121_ses-000121_acq-fse_run-6_bp-rm prostata con_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 30])",COR T2 FRFSE,True,False,
+sub-000121,ses-000121,anat,sub-000121_ses-000121_acq-propeller_run-8_bp-rm prostata con_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 23])",Ax T2 PROPELLER FAT SAT,True,False,
+sub-000121,ses-000121,anat,sub-000121_ses-000121_acq-propeller_run-3_bp-rm prostata con_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 30])",SAG  T2 PROPELLER,True,False,
+sub-000121,ses-000121,dwi,sub-000121_ses-000121_acq-adc_run-500_bp-rm prostata con_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 40])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000132,ses-000132,anat,sub-000132_ses-000132_acq-fse_run-5_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 27])",COR SSFSE T2,True,False,
+sub-000132,ses-000132,anat,sub-000132_ses-000132_acq-fse_run-4_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 38])",AX SSFSE T2,True,False,
+sub-000132,ses-000132,anat,sub-000132_ses-000132_acq-fse_run-3_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 20])",SAGITAL SSFSE T2,True,False,
+sub-000005,ses-000005,anat,sub-000005_ses-000005_acq-fse_run-6_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000005,ses-000005,anat,sub-000005_ses-000005_acq-fse_run-5_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 26])",CORONAL STIR FSE,True,False,
+sub-000005,ses-000005,anat,sub-000005_ses-000005_acq-fse_run-7_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000005,ses-000005,anat,sub-000005_ses-000005_acq-fse_run-11_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000005,ses-000005,dwi,sub-000005_ses-000005_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000016,ses-000016,anat,sub-000016_ses-000016_acq-fse_run-9_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000016,ses-000016,anat,sub-000016_ses-000016_acq-fse_run-7_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000016,ses-000016,anat,sub-000016_ses-000016_acq-fse_run-6_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000016,ses-000016,dwi,sub-000016_ses-000016_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000016,ses-000016,dwi,sub-000016_ses-000016_acq-bvalue_run-12_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000025,ses-000025,dwi,sub-000025_ses-000025_acq-adc_run-7_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([192, 192, 32])",Dw EPI b0-150-1000 -1400_ADC,True,False,
+sub-000033,ses-000033,anat,sub-000033_ses-000033_acq-fse_run-9_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ax T2,True,False,
+sub-000033,ses-000033,anat,sub-000033_ses-000033_acq-fse_run-4_bp-abdomen_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 26])",CORONAL STIR FSE,True,False,
+sub-000033,ses-000033,anat,sub-000033_ses-000033_acq-fse_run-5_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 26])",sag T2 FRFSE,True,False,
+sub-000033,ses-000033,dwi,sub-000033_ses-000033_acq-bvalue_run-10_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000033,ses-000033,dwi,sub-000033_ses-000033_acq-bvalue_run-11_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000190,ses-000190,dwi,sub-000190_ses-000190_acq-adc_run-7_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([192, 192, 30])",Dw EPI b0-150-1000 -1400_ADC,True,False,
+sub-000065,ses-000065,anat,sub-000065_ses-000065_acq-fse_run-5_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000065,ses-000065,anat,sub-000065_ses-000065_acq-fse_run-8_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ax T2,True,False,
+sub-000065,ses-000065,anat,sub-000065_ses-000065_acq-fse_run-6_bp-abdomen_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000065,ses-000065,dwi,sub-000065_ses-000065_acq-bvalue_run-11_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000065,ses-000065,dwi,sub-000065_ses-000065_acq-bvalue_run-10_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000136,ses-000136,anat,sub-000136_ses-000136_acq-propeller_run-3_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 22])",Sag T2 PROPELLER,True,False,
+sub-000136,ses-000136,anat,sub-000136_ses-000136_acq-propeller_run-4_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 45])",Ax T2 PROP. PELVIS,True,False,
+sub-000136,ses-000136,anat,sub-000136_ses-000136_acq-propeller_run-700_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 30])",FL:D/Ax T2 PROPELLER,True,False,
+sub-000136,ses-000136,anat,sub-000136_ses-000136_acq-propeller_run-300_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 22])",FL:D/Sag T2 PROPELLER,True,False,
+sub-000136,ses-000136,anat,sub-000136_ses-000136_acq-propeller_run-600_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 25])",FL:D/Cor T2 PROPELLER,True,False,
+sub-000136,ses-000136,anat,sub-000136_ses-000136_acq-propeller_run-7_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 30])",Ax T2 PROPELLER,True,False,
+sub-000136,ses-000136,anat,sub-000136_ses-000136_acq-propeller_run-6_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 25])",Cor T2 PROPELLER,True,False,
+sub-000136,ses-000136,dwi,sub-000136_ses-000136_acq-adc_run-801_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 22])",Exponential Apparent Diffusion Coefficient,False,False,
+sub-000136,ses-000136,dwi,sub-000136_ses-000136_acq-bvalue_run-5_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 30, 2])",Ax DWI b50-800 PELVIS,True,True,Ax DWI b50-800 PELVIS
+sub-000136,ses-000136,dwi,sub-000136_ses-000136_acq-adc_run-800_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 22])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000136,ses-000136,dwi,sub-000136_ses-000136_acq-adc_run-500_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 30])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000174,ses-000174,dwi,sub-000174_ses-000174_acq-adc_run-7_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([192, 192, 30])",Dw EPI b0-150-1000 -1400_ADC,True,False,
+sub-000044,ses-000044,anat,sub-000044_ses-000044_acq-blade_run-8001_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 30])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000044,ses-000044,anat,sub-000044_ses-000044_acq-blade_run-9001_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 25])",t2_tse_cor_p2_384 blade,True,False,
+sub-000044,ses-000044,anat,sub-000044_ses-000044_acq-fse_run-2001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 30])",t2_haste STIR_cor_p3_4mm,True,False,
+sub-000044,ses-000044,anat,sub-000044_ses-000044_acq-fse_run-10001_bp-pelvis_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 25])",t2_tse_tra_p2_384 ESTRICTO,True,False,
+sub-000044,ses-000044,dwi,sub-000044_ses-000044_acq-bvalue_run-13001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 25])",resolve_diff_b50_1400_tra_p2_CALC_BVAL,False,False,
+sub-000044,ses-000044,dwi,sub-000044_ses-000044_acq-bvalue_run-12001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 25])",resolve_diff_b50_1400_tra_p2_ADC,False,False,
+sub-000142,ses-000142,anat,sub-000142_ses-000142_acq-fse_run-8_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000142,ses-000142,anat,sub-000142_ses-000142_acq-fse_run-7_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000142,ses-000142,anat,sub-000142_ses-000142_acq-fse_run-5_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000142,ses-000142,dwi,sub-000142_ses-000142_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000142,ses-000142,dwi,sub-000142_ses-000142_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000041,ses-000041,anat,sub-000041_ses-000041_acq-blade_run-11001_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 25])",t2_tse_cor_p2_384 blade,True,False,
+sub-000041,ses-000041,anat,sub-000041_ses-000041_acq-blade_run-9001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 64])",AXIAL T2 TSE BLADE ADENOPATIAS,True,False,
+sub-000041,ses-000041,anat,sub-000041_ses-000041_acq-fse_run-2001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 48])",CORONAL HASTE STIR T2,True,False,
+sub-000041,ses-000041,anat,sub-000041_ses-000041_acq-fse_run-12001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 30])",AXIAL T2 TSE,True,False,
+sub-000041,ses-000041,anat,sub-000041_ses-000041_acq-blade_run-10001_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 30])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000041,ses-000041,dwi,sub-000041_ses-000041_acq-bvalue_run-19001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 224, 50])",AXIAL DIFUSION GANGLIOS b50_800_CALC 1500_ADC,True,False,
+sub-000041,ses-000041,dwi,sub-000041_ses-000041_acq-adc_run-14001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([150, 76, 30])",AXIAL DIFUSION PROSTATA b50_1400_ADC,True,False,
+sub-000007,ses-000007,anat,sub-000007_ses-000007_acq-fse_run-301_bp-prostate_vp-ax_stir.nii.gz,ax,stir,"torch.Size([480, 480, 30])",AX STIR,True,False,
+sub-000007,ses-000007,dwi,sub-000007_ses-000007_acq-adc_run-903_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([336, 336, 30])",dadc map,True,False,
+sub-000087,ses-000087,anat,sub-000087_ses-000087_acq-fse_run-6_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000087,ses-000087,anat,sub-000087_ses-000087_acq-fse_run-8_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000087,ses-000087,anat,sub-000087_ses-000087_acq-fse_run-5_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000087,ses-000087,dwi,sub-000087_ses-000087_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000087,ses-000087,dwi,sub-000087_ses-000087_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000150,ses-000150,anat,sub-000150_ses-000150_acq-fse_run-6_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",ax T2,True,False,
+sub-000150,ses-000150,anat,sub-000150_ses-000150_acq-fse_run-4_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 26])",sag T2 FRFSE,True,False,
+sub-000085,ses-000085,anat,sub-000085_ses-000085_acq-fse_run-8_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 30])",ax T2,True,False,
+sub-000085,ses-000085,anat,sub-000085_ses-000085_acq-fse_run-6_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000085,ses-000085,anat,sub-000085_ses-000085_acq-fse_run-5_bp-abdomen_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000085,ses-000085,dwi,sub-000085_ses-000085_acq-bvalue_run-10_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 30, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000085,ses-000085,dwi,sub-000085_ses-000085_acq-bvalue_run-11_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 30, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000171,ses-000171,dwi,sub-000171_ses-000171_acq-bvalue_run-7_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",AX DWI B800,True,True,AX DWI B800
+sub-000171,ses-000171,dwi,sub-000171_ses-000171_acq-bvalue_run-8_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",AX DWI B1000,True,True,AX DWI B1000
+sub-000135,ses-000135,anat,sub-000135_ses-000135_acq-fse_run-11001_bp-arm_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([384, 384, 27])",CORONAL T2 TSE,True,False,
+sub-000135,ses-000135,anat,sub-000135_ses-000135_acq-blade_run-9001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 60])",AXIAL T2 TSE BLADE ADENOPATIAS,True,False,
+sub-000135,ses-000135,anat,sub-000135_ses-000135_acq-fse_run-10001_bp-arm_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([384, 384, 26])",SAGITAL T2 TSE,True,False,
+sub-000135,ses-000135,anat,sub-000135_ses-000135_acq-fse_run-2001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 38])",CORONAL HASTE STIR T2,True,False,
+sub-000135,ses-000135,anat,sub-000135_ses-000135_acq-fse_run-12001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 25])",AXIAL T2 TSE,True,False,
+sub-000135,ses-000135,dwi,sub-000135_ses-000135_acq-bvalue_run-20001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 56])",AX DIF GANGLIOS HASTA RIÑON b50_800_CALC 1500_CALC_BVAL,False,False,
+sub-000135,ses-000135,dwi,sub-000135_ses-000135_acq-adc_run-14001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([150, 76, 25])",AXIAL DIFUSION PROSTATA b50_1400_ADC,True,False,
+sub-000135,ses-000135,dwi,sub-000135_ses-000135_acq-adc_run-1488_bp-arm_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([150, 76, 25])",ADC_IVIM_OLEA_COMPUTED,True,False,
+sub-000135,ses-000135,dwi,sub-000135_ses-000135_acq-bvalue_run-19001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 56])",AX DIF GANGLIOS HASTA RIÑON b50_800_CALC 1500_ADC,False,False,
+sub-000006,ses-000006,anat,sub-000006_ses-000006_acq-fse_run-7_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ax T2,True,False,
+sub-000006,ses-000006,anat,sub-000006_ses-000006_acq-fse_run-6_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000006,ses-000006,anat,sub-000006_ses-000006_acq-fse_run-5_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 32])",CORONAL STIR FSE,True,False,
+sub-000006,ses-000006,dwi,sub-000006_ses-000006_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000006,ses-000006,dwi,sub-000006_ses-000006_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000061,ses-000061,anat,sub-000061_ses-000061_acq-blade_run-7001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 56])",t2_blade_tra,True,False,
+sub-000061,ses-000061,anat,sub-000061_ses-000061_acq-blade_run-9001_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 25])",t2_tse_cor_p2_384 blade,True,False,
+sub-000061,ses-000061,anat,sub-000061_ses-000061_acq-fse_run-2001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 30])",t2_haste STIR_cor_p3_4mm,True,False,
+sub-000061,ses-000061,anat,sub-000061_ses-000061_acq-fse_run-10001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 25])",t2_tse_tra_p2_384 ESTRICTO,True,False,
+sub-000061,ses-000061,anat,sub-000061_ses-000061_acq-blade_run-8001_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 30])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000061,ses-000061,dwi,sub-000061_ses-000061_acq-bvalue_run-17001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",ep2d_diff GANGLIOS_b50_800_ CALC 1500 tra_p3_CALC_BVAL,False,False,
+sub-000061,ses-000061,dwi,sub-000061_ses-000061_acq-bvalue_run-12001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 25])",resolve_diff_b50_1400_tra_p2_ADC,False,False,
+sub-000061,ses-000061,dwi,sub-000061_ses-000061_acq-bvalue_run-16001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",ep2d_diff GANGLIOS_b50_800_ CALC 1500 tra_p3_ADC,False,False,
+sub-000061,ses-000061,dwi,sub-000061_ses-000061_acq-bvalue_run-13001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 25])",resolve_diff_b50_1400_tra_p2_CALC_BVAL,False,False,
+sub-000113,ses-000113,anat,sub-000113_ses-000113_acq-blade_run-8001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 51])",t2_blade_tra,True,False,
+sub-000113,ses-000113,anat,sub-000113_ses-000113_acq-blade_run-9001_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 30])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000113,ses-000113,anat,sub-000113_ses-000113_acq-blade_run-15001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([320, 320, 25])",t2_tse_AX_p2_384 blade,True,False,
+sub-000113,ses-000113,anat,sub-000113_ses-000113_acq-fse_run-11001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 25])",t2_tse_tra_p2_384,True,False,
+sub-000113,ses-000113,anat,sub-000113_ses-000113_acq-blade_run-10001_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 25])",t2_tse_cor_p2_384 blade,True,False,
+sub-000113,ses-000113,anat,sub-000113_ses-000113_acq-fse_run-3001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 30])",t2_haste STIR_cor_p3_4mm,True,False,
+sub-000113,ses-000113,dwi,sub-000113_ses-000113_acq-bvalue_run-19001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 50])",ep2d_diff GANGLIOS_b50_800_ CALC 1500 tra_p3_CALC_BVAL,False,False,
+sub-000113,ses-000113,dwi,sub-000113_ses-000113_acq-bvalue_run-14001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 25])",resolve_diff_b50_1400_tra_p2_CALC_BVAL,False,False,
+sub-000113,ses-000113,dwi,sub-000113_ses-000113_acq-bvalue_run-18001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 50])",ep2d_diff GANGLIOS_b50_800_ CALC 1500 tra_p3_ADC,False,False,
+sub-000113,ses-000113,dwi,sub-000113_ses-000113_acq-bvalue_run-13001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 25])",resolve_diff_b50_1400_tra_p2_ADC,False,False,
+sub-000112,ses-000112,anat,sub-000112_ses-000112_acq-fse_run-8_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ax T2,True,False,
+sub-000112,ses-000112,anat,sub-000112_ses-000112_acq-fse_run-4_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 30])",CORONAL STIR FSE,True,False,
+sub-000112,ses-000112,anat,sub-000112_ses-000112_acq-fse_run-3_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000112,ses-000112,dwi,sub-000112_ses-000112_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000112,ses-000112,dwi,sub-000112_ses-000112_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000030,ses-000030,anat,sub-000030_ses-000030_acq-fse_run-9_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 30])",sag T2 FRFSE,True,False,
+sub-000030,ses-000030,anat,sub-000030_ses-000030_acq-fse_run-10_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 30])",ax T2,True,False,
+sub-000030,ses-000030,anat,sub-000030_ses-000030_acq-fse_run-6_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 30])",sag T2 FRFSE,True,False,
+sub-000030,ses-000030,anat,sub-000030_ses-000030_acq-fse_run-4_bp-abdomen_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 26])",CORONAL STIR FSE,True,False,
+sub-000030,ses-000030,dwi,sub-000030_ses-000030_acq-bvalue_run-12_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 30, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000030,ses-000030,dwi,sub-000030_ses-000030_acq-bvalue_run-13_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 30, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000075,ses-000075,anat,sub-000075_ses-000075_acq-blade_run-9001_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 25])",t2_tse_cor_p2_384 blade,True,False,
+sub-000075,ses-000075,anat,sub-000075_ses-000075_acq-blade_run-7001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 56])",t2_blade_tra,True,False,
+sub-000075,ses-000075,anat,sub-000075_ses-000075_acq-fse_run-2001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 30])",t2_haste STIR_cor_p3_4mm,True,False,
+sub-000075,ses-000075,anat,sub-000075_ses-000075_acq-blade_run-8001_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 30])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000075,ses-000075,anat,sub-000075_ses-000075_acq-fse_run-10001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 25])",t2_tse_tra_p2_384 ESTRICTO,True,False,
+sub-000075,ses-000075,dwi,sub-000075_ses-000075_acq-bvalue_run-13001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 25])",resolve_diff_b50_1400_tra_p2_CALC_BVAL,False,False,
+sub-000075,ses-000075,dwi,sub-000075_ses-000075_acq-bvalue_run-17001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",ep2d_diff GANGLIOS_b50_800_ CALC 1500 tra_p3_CALC_BVAL,False,False,
+sub-000075,ses-000075,dwi,sub-000075_ses-000075_acq-bvalue_run-16001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",ep2d_diff GANGLIOS_b50_800_ CALC 1500 tra_p3_ADC,False,False,
+sub-000075,ses-000075,dwi,sub-000075_ses-000075_acq-bvalue_run-12001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 25])",resolve_diff_b50_1400_tra_p2_ADC,False,False,
+sub-000110,ses-000110,anat,sub-000110_ses-000110_acq-fse_run-12_bp-cervix_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000110,ses-000110,anat,sub-000110_ses-000110_acq-fse_run-7_bp-cervix_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 26])",sag T2 FRFSE,True,False,
+sub-000110,ses-000110,anat,sub-000110_ses-000110_acq-fse_run-5_bp-cervix_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 12])",CORONAL STIR FSE,True,False,
+sub-000110,ses-000110,anat,sub-000110_ses-000110_acq-fse_run-10_bp-cervix_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",ax T2,True,False,
+sub-000110,ses-000110,dwi,sub-000110_ses-000110_acq-bvalue_run-11_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000110,ses-000110,dwi,sub-000110_ses-000110_acq-bvalue_run-13_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000057,ses-000057,anat,sub-000057_ses-000057_acq-blade_run-12001_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 28])",t2_tse_cor_p2_384 blade,True,False,
+sub-000057,ses-000057,anat,sub-000057_ses-000057_acq-blade_run-10001_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 36])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000057,ses-000057,anat,sub-000057_ses-000057_acq-blade_run-11001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 30])",t2_tse_tra_p2_384 ESTRICTO CON BLADE,True,False,
+sub-000057,ses-000057,anat,sub-000057_ses-000057_acq-blade_run-9001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 60])",AXIAL T2 TSE BLADE ADENOPATIAS,True,False,
+sub-000057,ses-000057,anat,sub-000057_ses-000057_acq-fse_run-2001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 30])",CORONAL HASTE STIR T2,True,False,
+sub-000057,ses-000057,dwi,sub-000057_ses-000057_acq-adc_run-14001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([150, 76, 29])",AXIAL DIFUSION PROSTATA b50_1400_ADC,True,False,
+sub-000057,ses-000057,dwi,sub-000057_ses-000057_acq-bvalue_run-20001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 50])",AX DIF GANGLIOS HASTA RIÑON b50_800_CALC 1500_ADC,False,False,
+sub-000057,ses-000057,dwi,sub-000057_ses-000057_acq-bvalue_run-21001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 50])",AX DIF GANGLIOS HASTA RIÑON b50_800_CALC 1500_CALC_BVAL,False,False,
+sub-000043,ses-000043,anat,sub-000043_ses-000043_acq-fse_run-7_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 26])",sag T2 FRFSE,True,False,
+sub-000043,ses-000043,anat,sub-000043_ses-000043_acq-fse_run-5_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 24])",COR T1 FSE,True,False,
+sub-000043,ses-000043,anat,sub-000043_ses-000043_acq-fse_run-9_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 35])",ax T2,True,False,
+sub-000043,ses-000043,anat,sub-000043_ses-000043_acq-fse_run-6_bp-abdomen_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000043,ses-000043,dwi,sub-000043_ses-000043_acq-bvalue_run-10_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 35, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000043,ses-000043,dwi,sub-000043_ses-000043_acq-bvalue_run-11_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 35, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000047,ses-000047,anat,sub-000047_ses-000047_acq-fse_run-8_bp-cervix_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000047,ses-000047,anat,sub-000047_ses-000047_acq-fse_run-5_bp-cervix_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000047,ses-000047,anat,sub-000047_ses-000047_acq-fse_run-6_bp-cervix_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000047,ses-000047,dwi,sub-000047_ses-000047_acq-bvalue_run-10_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000047,ses-000047,dwi,sub-000047_ses-000047_acq-bvalue_run-11_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000167,ses-000167,anat,sub-000167_ses-000167_acq-propeller_run-10_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",Ax T2 PROPELLER,True,False,
+sub-000167,ses-000167,anat,sub-000167_ses-000167_acq-propeller_run-4_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 20])",Sag T2 PROPELLER,True,False,
+sub-000167,ses-000167,anat,sub-000167_ses-000167_acq-propeller_run-1000_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",FL:D/Ax T2 PROPELLER,True,False,
+sub-000167,ses-000167,anat,sub-000167_ses-000167_acq-propeller_run-8_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 30])",Cor T2 PROPELLER,True,False,
+sub-000167,ses-000167,anat,sub-000167_ses-000167_acq-propeller_run-800_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 30])",FL:D/Cor T2 PROPELLER,True,False,
+sub-000167,ses-000167,anat,sub-000167_ses-000167_acq-propeller_run-5_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 53])",Ax T2 PROP. PELVIS,True,False,
+sub-000167,ses-000167,dwi,sub-000167_ses-000167_acq-adc_run-700_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 35])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000167,ses-000167,dwi,sub-000167_ses-000167_acq-bvalue_run-7_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 35, 2])",Ax DWI b50-800 PELVIS,True,True,Ax DWI b50-800 PELVIS
+sub-000167,ses-000167,dwi,sub-000167_ses-000167_acq-adc_run-1101_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 20])",Exponential Apparent Diffusion Coefficient,False,False,
+sub-000167,ses-000167,dwi,sub-000167_ses-000167_acq-adc_run-1100_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 20])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000119,ses-000119,anat,sub-000119_ses-000119_acq-fse_run-3_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000119,ses-000119,anat,sub-000119_ses-000119_acq-fse_run-10_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 36])",ax T2,True,False,
+sub-000119,ses-000119,anat,sub-000119_ses-000119_acq-fse_run-4_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 22])",CORONAL STIR FSE,True,False,
+sub-000119,ses-000119,dwi,sub-000119_ses-000119_acq-bvalue_run-9_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000119,ses-000119,dwi,sub-000119_ses-000119_acq-bvalue_run-13_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 36, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000119,ses-000119,dwi,sub-000119_ses-000119_acq-bvalue_run-12_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 36, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000028,ses-000028,anat,sub-000028_ses-000028_acq-blade_run-11_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 28])",t2_tse_cor_p2_384 blade,True,False,
+sub-000028,ses-000028,anat,sub-000028_ses-000028_acq-fse_run-2_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 30])",CORONAL HASTE STIR T2,True,False,
+sub-000028,ses-000028,anat,sub-000028_ses-000028_acq-blade_run-10_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 36])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000028,ses-000028,anat,sub-000028_ses-000028_acq-blade_run-9_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 56])",AXIAL T2 TSE BLADE ADENOPATIAS,True,False,
+sub-000028,ses-000028,dwi,sub-000028_ses-000028_acq-adc_run-14_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([150, 76, 25])",AXIAL DIFUSION PROSTATA b50_1400_ADC,True,False,
+sub-000166,ses-000166,dwi,sub-000166_ses-000166_acq-adc_run-7_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([192, 192, 30])",Dw EPI b0-150-1000 -1400_ADC,True,False,
+sub-000083,ses-000083,anat,sub-000083_ses-000083_acq-fse_run-6_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000083,ses-000083,anat,sub-000083_ses-000083_acq-fse_run-5_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000083,ses-000083,anat,sub-000083_ses-000083_acq-fse_run-8_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ax T2,True,False,
+sub-000083,ses-000083,dwi,sub-000083_ses-000083_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000083,ses-000083,dwi,sub-000083_ses-000083_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000022,ses-000022,anat,sub-000022_ses-000022_acq-fse_run-7_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000022,ses-000022,anat,sub-000022_ses-000022_acq-fse_run-8_bp-arm_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000022,ses-000022,anat,sub-000022_ses-000022_acq-fse_run-10_bp-arm_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000022,ses-000022,dwi,sub-000022_ses-000022_acq-bvalue_run-12_bp-arm_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000022,ses-000022,dwi,sub-000022_ses-000022_acq-bvalue_run-13_bp-arm_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000077,ses-000077,anat,sub-000077_ses-000077_acq-fse_run-8_bp-cervix_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000077,ses-000077,anat,sub-000077_ses-000077_acq-fse_run-6_bp-cervix_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000077,ses-000077,anat,sub-000077_ses-000077_acq-fse_run-4_bp-cervix_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000077,ses-000077,dwi,sub-000077_ses-000077_acq-bvalue_run-11_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000077,ses-000077,dwi,sub-000077_ses-000077_acq-bvalue_run-10_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000105,ses-000105,anat,sub-000105_ses-000105_acq-fse_run-6_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 32])",CORONAL STIR FSE,True,False,
+sub-000105,ses-000105,anat,sub-000105_ses-000105_acq-fse_run-9_bp-arm_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 26])",sag T2 FRFSE,True,False,
+sub-000105,ses-000105,anat,sub-000105_ses-000105_acq-fse_run-11_bp-arm_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",ax T2,True,False,
+sub-000105,ses-000105,anat,sub-000105_ses-000105_acq-fse_run-8_bp-arm_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 26])",sag T2 FRFSE,True,False,
+sub-000105,ses-000105,dwi,sub-000105_ses-000105_acq-bvalue_run-12_bp-arm_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000105,ses-000105,dwi,sub-000105_ses-000105_acq-bvalue_run-13_bp-arm_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000099,ses-000099,anat,sub-000099_ses-000099_acq-fse_run-9_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ax T2,True,False,
+sub-000099,ses-000099,anat,sub-000099_ses-000099_acq-fse_run-6_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 26])",CORONAL STIR FSE,True,False,
+sub-000099,ses-000099,anat,sub-000099_ses-000099_acq-fse_run-7_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 26])",sag T2 FRFSE,True,False,
+sub-000099,ses-000099,anat,sub-000099_ses-000099_acq-fse_run-11_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 4])",sag T2 FRFSE,True,False,
+sub-000099,ses-000099,dwi,sub-000099_ses-000099_acq-bvalue_run-12_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000099,ses-000099,dwi,sub-000099_ses-000099_acq-bvalue_run-13_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000067,ses-000067,anat,sub-000067_ses-000067_acq-blade_run-8001_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 30])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000067,ses-000067,anat,sub-000067_ses-000067_acq-blade_run-7001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 56])",t2_blade_tra,True,False,
+sub-000067,ses-000067,anat,sub-000067_ses-000067_acq-blade_run-9001_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 25])",t2_tse_cor_p2_384 blade,True,False,
+sub-000067,ses-000067,anat,sub-000067_ses-000067_acq-fse_run-10001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 25])",t2_tse_tra_p2_384 ESTRICTO,True,False,
+sub-000067,ses-000067,anat,sub-000067_ses-000067_acq-fse_run-2001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 30])",t2_haste STIR_cor_p3_4mm,True,False,
+sub-000067,ses-000067,dwi,sub-000067_ses-000067_acq-bvalue_run-12001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 25])",resolve_diff_b50_1400_tra_p2_ADC,False,False,
+sub-000067,ses-000067,dwi,sub-000067_ses-000067_acq-bvalue_run-13001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 25])",resolve_diff_b50_1400_tra_p2_CALC_BVAL,False,False,
+sub-000067,ses-000067,dwi,sub-000067_ses-000067_acq-bvalue_run-17001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 48])",ep2d_diff GANGLIOS_b50_800_ CALC 1500 tra_p3_CALC_BVAL,False,False,
+sub-000067,ses-000067,dwi,sub-000067_ses-000067_acq-bvalue_run-16001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 48])",ep2d_diff GANGLIOS_b50_800_ CALC 1500 tra_p3_ADC,False,False,
+sub-000165,ses-000165,dwi,sub-000165_ses-000165_acq-adc_run-7_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([192, 192, 30])",Dw EPI b0-150-1000 -1400_ADC,True,False,
+sub-000156,ses-000156,anat,sub-000156_ses-000156_acq-fse_run-5_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 41])",COR SSFSE T2,True,False,
+sub-000156,ses-000156,anat,sub-000156_ses-000156_acq-fse_run-3_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 28])",SAGITAL SSFSE T2,True,False,
+sub-000156,ses-000156,anat,sub-000156_ses-000156_acq-fse_run-4_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 49])",AX SSFSE T2,True,False,
+sub-000064,ses-000064,anat,sub-000064_ses-000064_acq-fse_run-6_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000064,ses-000064,anat,sub-000064_ses-000064_acq-fse_run-5_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 26])",CORONAL STIR FSE,True,False,
+sub-000064,ses-000064,anat,sub-000064_ses-000064_acq-fse_run-8_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ax T2,True,False,
+sub-000064,ses-000064,dwi,sub-000064_ses-000064_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000064,ses-000064,dwi,sub-000064_ses-000064_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000060,ses-000060,anat,sub-000060_ses-000060_acq-fse_run-6001_bp-arm_vp-ax_stir.nii.gz,ax,stir,"torch.Size([384, 228, 40])",AXIAL STIR PELVIS,True,False,
+sub-000060,ses-000060,anat,sub-000060_ses-000060_acq-fse_run-9001_bp-arm_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 30])",t2_tse_AXIAL,True,False,
+sub-000060,ses-000060,anat,sub-000060_ses-000060_acq-blade_run-8001_bp-arm_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([352, 352, 25])",t2_tse_CORONAL,True,False,
+sub-000060,ses-000060,anat,sub-000060_ses-000060_acq-blade_run-7001_bp-arm_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 30])",t2_tse_SAGITAL,True,False,
+sub-000060,ses-000060,dwi,sub-000060_ses-000060_acq-adc_run-11001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([150, 76, 30])",AXIAL DIFUSION PROSTATA b50_1400_ADC,True,False,
+sub-000060,ses-000060,dwi,sub-000060_ses-000060_acq-bvalue_run-17001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",AXIAL DIFUSION GANGLIOS b50_800_CALC 1500_ADC,True,False,
+sub-000079,ses-000079,anat,sub-000079_ses-000079_acq-fse_run-7_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",ax T2,True,False,
+sub-000079,ses-000079,anat,sub-000079_ses-000079_acq-fse_run-4_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000079,ses-000079,anat,sub-000079_ses-000079_acq-fse_run-9_bp-abdomen_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 28])",CORONAL STIR FSE,True,False,
+sub-000079,ses-000079,dwi,sub-000079_ses-000079_acq-bvalue_run-6_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000052,ses-000052,anat,sub-000052_ses-000052_acq-fse_run-9_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ax T2,True,False,
+sub-000052,ses-000052,anat,sub-000052_ses-000052_acq-fse_run-6_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 32])",sag T2 FRFSE,True,False,
+sub-000052,ses-000052,anat,sub-000052_ses-000052_acq-fse_run-5_bp-abdomen_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",COR STIR FSE,True,False,
+sub-000052,ses-000052,dwi,sub-000052_ses-000052_acq-bvalue_run-11_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000052,ses-000052,dwi,sub-000052_ses-000052_acq-bvalue_run-10_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1000,True,True,ax dif b1000
+sub-009330,ses-010449,anat,sub-009330_ses-010449_acq-fse_run-501_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([1024, 1024, 50])",T1W_TSE_TRA PELVIS_IQ,True,False,
+sub-009330,ses-010449,anat,sub-009330_ses-010449_acq-fse_run-401_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([400, 400, 30])",T2W_TSE_COR_IQ,True,False,
+sub-009330,ses-010449,anat,sub-009330_ses-010449_acq-fse_run-301_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([480, 480, 30])",T2W_TSE_TRA_IQ,True,False,
+sub-009330,ses-010449,anat,sub-009330_ses-010449_acq-fse_run-201_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 30])",T2W_TSE_SAG_IQ,True,False,
+sub-009330,ses-010449,dwi,sub-009330_ses-010449_acq-adc_run-604_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([112, 112, 30])",eEADC,False,False,
+sub-009330,ses-010449,dwi,sub-009330_ses-010449_acq-adc_run-603_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([112, 112, 30])",dADC,True,False,
+sub-000049,ses-000049,anat,sub-000049_ses-000049_acq-fse_run-7_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",ax T2,True,False,
+sub-000049,ses-000049,anat,sub-000049_ses-000049_acq-fse_run-4_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000049,ses-000049,anat,sub-000049_ses-000049_acq-fse_run-3_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 24])",COR T1 FSE,True,False,
+sub-000049,ses-000049,anat,sub-000049_ses-000049_acq-fse_run-5_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000049,ses-000049,dwi,sub-000049_ses-000049_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000049,ses-000049,dwi,sub-000049_ses-000049_acq-bvalue_run-9_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000170,ses-000170,dwi,sub-000170_ses-000170_acq-bvalue_run-8_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",AX DWI B1000,True,True,AX DWI B1000
+sub-000170,ses-000170,dwi,sub-000170_ses-000170_acq-bvalue_run-7_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",AX DWI B800,True,True,AX DWI B800
+sub-000180,ses-000180,dwi,sub-000180_ses-000180_acq-adc_run-7_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([192, 192, 30])",Dw EPI b0-150-1000 -1400_ADC,True,False,
+sub-000133,ses-000133,anat,sub-000133_ses-000133_acq-fse_run-2001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 40])",CORONAL HASTE STIR T2,True,False,
+sub-000133,ses-000133,anat,sub-000133_ses-000133_acq-blade_run-10001_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 32])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000133,ses-000133,anat,sub-000133_ses-000133_acq-blade_run-11001_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 25])",t2_tse_cor_p2_384 blade,True,False,
+sub-000133,ses-000133,anat,sub-000133_ses-000133_acq-fse_run-12001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 28])",t2_tse_tra_p2_384 ESTRICTO,True,False,
+sub-000133,ses-000133,anat,sub-000133_ses-000133_acq-blade_run-9001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 60])",AXIAL T2 TSE BLADE ADENOPATIAS,True,False,
+sub-000133,ses-000133,dwi,sub-000133_ses-000133_acq-bvalue_run-19001_bp-pelvis_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 52])",AXIAL DIFUSION GANGLIOS b50_800_CALC 1500_ADC,True,False,
+sub-000133,ses-000133,dwi,sub-000133_ses-000133_acq-adc_run-14001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([150, 76, 28])",AXIAL DIFUSION PROSTATA b50_1400_ADC,True,False,
+sub-000140,ses-000140,anat,sub-000140_ses-000140_acq-fse_run-2001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 30])",t2_haste STIR_cor_p3_4mm,True,False,
+sub-000140,ses-000140,anat,sub-000140_ses-000140_acq-blade_run-8001_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 30])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000140,ses-000140,anat,sub-000140_ses-000140_acq-blade_run-7001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 53])",t2_blade_tra,True,False,
+sub-000140,ses-000140,anat,sub-000140_ses-000140_acq-blade_run-9001_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 25])",t2_tse_cor_p2_384 blade,True,False,
+sub-000140,ses-000140,anat,sub-000140_ses-000140_acq-fse_run-10001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 25])",t2_tse_tra_p2_384,True,False,
+sub-000140,ses-000140,dwi,sub-000140_ses-000140_acq-bvalue_run-12001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 25])",resolve_diff_b50_1400_tra_p2_ADC,False,False,
+sub-000140,ses-000140,dwi,sub-000140_ses-000140_acq-bvalue_run-17001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 272, 44])",ep2d_diff GANGLIOS_b50_800_ CALC 1500 tra_p3_CALC_BVAL,False,False,
+sub-000140,ses-000140,dwi,sub-000140_ses-000140_acq-bvalue_run-13001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 25])",resolve_diff_b50_1400_tra_p2_CALC_BVAL,False,False,
+sub-000140,ses-000140,dwi,sub-000140_ses-000140_acq-bvalue_run-16001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 272, 44])",ep2d_diff GANGLIOS_b50_800_ CALC 1500 tra_p3_ADC,False,False,
+sub-000059,ses-000059,anat,sub-000059_ses-000059_acq-blade_run-9001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 56])",AXIAL T2 TSE BLADE ADENOPATIAS,True,False,
+sub-000059,ses-000059,anat,sub-000059_ses-000059_acq-fse_run-12001_bp-arm_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 25])",AXIAL T2 TSE,True,False,
+sub-000059,ses-000059,anat,sub-000059_ses-000059_acq-fse_run-11001_bp-arm_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([384, 384, 25])",CORONAL T2 TSE,True,False,
+sub-000059,ses-000059,anat,sub-000059_ses-000059_acq-fse_run-2001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 30])",CORONAL HASTE STIR T2,True,False,
+sub-000059,ses-000059,anat,sub-000059_ses-000059_acq-fse_run-10001_bp-arm_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([384, 384, 24])",SAGITAL T2 TSE,True,False,
+sub-000059,ses-000059,dwi,sub-000059_ses-000059_acq-bvalue_run-19001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",AXIAL DIFUSION GANGLIOS b50_800_CALC 1500_ADC,True,False,
+sub-000059,ses-000059,dwi,sub-000059_ses-000059_acq-adc_run-14001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([150, 76, 30])",AXIAL DIFUSION PROSTATA b50_400_1400_ADC,True,False,
+sub-000163,ses-000163,anat,sub-000163_ses-000163_acq-propeller_run-600_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 22])",FL:D/Cor T2 PROPELLER,True,False,
+sub-000163,ses-000163,anat,sub-000163_ses-000163_acq-propeller_run-300_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 20])",FL:D/Sag T2 PROPELLER,True,False,
+sub-000163,ses-000163,anat,sub-000163_ses-000163_acq-propeller_run-4_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 58])",Ax T2 PROP. PELVIS,True,False,
+sub-000163,ses-000163,anat,sub-000163_ses-000163_acq-propeller_run-700_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",FL:D/Ax T2 PROPELLER,True,False,
+sub-000163,ses-000163,anat,sub-000163_ses-000163_acq-propeller_run-3_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 20])",Sag T2 PROPELLER,True,False,
+sub-000163,ses-000163,anat,sub-000163_ses-000163_acq-propeller_run-7_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",Ax T2 PROPELLER,True,False,
+sub-000163,ses-000163,anat,sub-000163_ses-000163_acq-propeller_run-6_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 22])",Cor T2 PROPELLER,True,False,
+sub-000163,ses-000163,dwi,sub-000163_ses-000163_acq-adc_run-801_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 20])",Exponential Apparent Diffusion Coefficient,False,False,
+sub-000163,ses-000163,dwi,sub-000163_ses-000163_acq-adc_run-800_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 20])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000163,ses-000163,dwi,sub-000163_ses-000163_acq-bvalue_run-5_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 39, 2])",Ax DWI b50-800 PELVIS,True,True,Ax DWI b50-800 PELVIS
+sub-000163,ses-000163,dwi,sub-000163_ses-000163_acq-adc_run-500_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 39])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000074,ses-000074,anat,sub-000074_ses-000074_acq-fse_run-7_bp-cervix_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000074,ses-000074,anat,sub-000074_ses-000074_acq-fse_run-6_bp-cervix_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 28])",CORONAL STIR FSE,True,False,
+sub-000074,ses-000074,anat,sub-000074_ses-000074_acq-fse_run-9_bp-cervix_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ax T2,True,False,
+sub-000074,ses-000074,dwi,sub-000074_ses-000074_acq-bvalue_run-12_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000074,ses-000074,dwi,sub-000074_ses-000074_acq-bvalue_run-11_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000141,ses-000141,anat,sub-000141_ses-000141_acq-blade_run-15001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 30])",t2_tse_tra_p2_384 ESTRICTO CON BLADE,True,False,
+sub-000141,ses-000141,anat,sub-000141_ses-000141_acq-blade_run-9001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 56])",AXIAL T2 TSE BLADE ADENOPATIAS,True,False,
+sub-000141,ses-000141,anat,sub-000141_ses-000141_acq-blade_run-13001_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 36])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000141,ses-000141,anat,sub-000141_ses-000141_acq-fse_run-2001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 30])",CORONAL HASTE STIR T2,True,False,
+sub-000141,ses-000141,anat,sub-000141_ses-000141_acq-blade_run-14001_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 28])",t2_tse_cor_p2_384 blade,True,False,
+sub-000141,ses-000141,dwi,sub-000141_ses-000141_acq-bvalue_run-19001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",AX DIF GANGLIOS HASTA RIÑON b50_800_CALC 1500_ADC,False,False,
+sub-000141,ses-000141,dwi,sub-000141_ses-000141_acq-bvalue_run-20001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",AX DIF GANGLIOS HASTA RIÑON b50_800_CALC 1500_CALC_BVAL,False,False,
+sub-000141,ses-000141,dwi,sub-000141_ses-000141_acq-adc_run-11001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([150, 76, 25])",AXIAL DIFUSION PROSTATA b50_1400_ADC,True,False,
+sub-000154,ses-000154,dwi,sub-000154_ses-000154_acq-bvalue_run-8_bp-cervix_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([160, 136, 22, 2])",ep2d_diff_tra_b0_b1000,True,True,ep2d_diff_tra_b0_b1000
+sub-000154,ses-000154,dwi,sub-000154_ses-000154_acq-bvalue_run-9_bp-cervix_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([160, 136, 22])",ep2d_diff_tra_b0_b1000_ADC,True,True,ep2d_diff_tra_b0_b1000
+sub-000148,ses-000148,anat,sub-000148_ses-000148_acq-fse_run-5_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000148,ses-000148,anat,sub-000148_ses-000148_acq-fse_run-6_bp-arm_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000148,ses-000148,anat,sub-000148_ses-000148_acq-fse_run-8_bp-arm_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000148,ses-000148,dwi,sub-000148_ses-000148_acq-bvalue_run-11_bp-arm_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000148,ses-000148,dwi,sub-000148_ses-000148_acq-bvalue_run-10_bp-arm_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000129,ses-000129,anat,sub-000129_ses-000129_acq-fse_run-3_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",SAG T2 FRFSE,True,False,
+sub-000129,ses-000129,anat,sub-000129_ses-000129_acq-fse_run-7_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",SAG T2 FRFSE,True,False,
+sub-000129,ses-000129,anat,sub-000129_ses-000129_acq-fse_run-6_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 24])",COR T2 FRFSE,True,False,
+sub-000129,ses-000129,anat,sub-000129_ses-000129_acq-fse_run-4_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",AX T2 FRFSE,True,False,
+sub-000129,ses-000129,dwi,sub-000129_ses-000129_acq-bvalue_run-8_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000145,ses-000145,anat,sub-000145_ses-000145_acq-fse_run-5_bp-abdomen_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000145,ses-000145,anat,sub-000145_ses-000145_acq-fse_run-7_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 28])",sag T2 FRFSE,True,False,
+sub-000145,ses-000145,anat,sub-000145_ses-000145_acq-fse_run-8_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ax T2,True,False,
+sub-000145,ses-000145,dwi,sub-000145_ses-000145_acq-bvalue_run-11_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000145,ses-000145,dwi,sub-000145_ses-000145_acq-bvalue_run-10_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000177,ses-000177,anat,sub-000177_ses-000177_acq-fse_run-4_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 18])",SAG SSFSE T2,True,False,
+sub-000177,ses-000177,dwi,sub-000177_ses-000177_acq-bvalue_run-9_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",AX DWI B1000,True,True,AX DWI B1000
+sub-000177,ses-000177,dwi,sub-000177_ses-000177_acq-bvalue_run-8_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",AX DWI B800,True,True,AX DWI B800
+sub-000088,ses-000088,anat,sub-000088_ses-000088_acq-fse_run-4_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000088,ses-000088,anat,sub-000088_ses-000088_acq-fse_run-6_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 20])",sag T2 FRFSE,True,False,
+sub-000088,ses-000088,anat,sub-000088_ses-000088_acq-fse_run-8_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",ax T2,True,False,
+sub-000088,ses-000088,dwi,sub-000088_ses-000088_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000088,ses-000088,dwi,sub-000088_ses-000088_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000098,ses-000098,anat,sub-000098_ses-000098_acq-fse_run-16_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",AX T2 FRFSE HR,True,False,
+sub-000098,ses-000098,anat,sub-000098_ses-000098_acq-fse_run-7_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 24])",Cor FSE IR,True,False,
+sub-000098,ses-000098,anat,sub-000098_ses-000098_acq-fse_run-9_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",AX T2 FRFSE HR,True,False,
+sub-000098,ses-000098,anat,sub-000098_ses-000098_acq-fse_run-8_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 24])",COR  T2 FRFSE,True,False,
+sub-000098,ses-000098,anat,sub-000098_ses-000098_acq-fse_run-3_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",SAG T2 FRFSE,True,False,
+sub-000098,ses-000098,dwi,sub-000098_ses-000098_acq-bvalue_run-10_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",Ax DWI b1000,True,True,Ax DWI b2000
+sub-000098,ses-000098,dwi,sub-000098_ses-000098_acq-bvalue_run-11_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",Ax DWI b1500,True,True,Ax DWI b1500
+sub-000098,ses-000098,dwi,sub-000098_ses-000098_acq-bvalue_run-13_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",AX DWI b1500,True,True,AX DWI b1500
+sub-000098,ses-000098,dwi,sub-000098_ses-000098_acq-bvalue_run-12_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 20, 2])",Ax DWI b2000,True,True,Ax DWI b2000
+sub-000153,ses-000153,dwi,sub-000153_ses-000153_acq-adc_run-9_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([192, 192, 20])",Dw EPI b0-150-1000 -1400_ADC,True,False,
+sub-000054,ses-000054,anat,sub-000054_ses-000054_acq-fse_run-4_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000054,ses-000054,anat,sub-000054_ses-000054_acq-fse_run-5_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ax T2,True,False,
+sub-000054,ses-000054,dwi,sub-000054_ses-000054_acq-bvalue_run-8_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000054,ses-000054,dwi,sub-000054_ses-000054_acq-bvalue_run-7_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000056,ses-000056,anat,sub-000056_ses-000056_acq-blade_run-10001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 56])",AXIAL T2 TSE BLADE ADENOPATIAS,True,False,
+sub-000056,ses-000056,anat,sub-000056_ses-000056_acq-fse_run-3001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 30])",CORONAL HASTE STIR T2,True,False,
+sub-000056,ses-000056,anat,sub-000056_ses-000056_acq-blade_run-12001_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 28])",t2_tse_cor_p2_384 blade,True,False,
+sub-000056,ses-000056,anat,sub-000056_ses-000056_acq-blade_run-11001_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 40])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000056,ses-000056,anat,sub-000056_ses-000056_acq-blade_run-13001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 40])",t2_tse_tra_p2_384 ESTRICTO CON BLADE,True,False,
+sub-000056,ses-000056,dwi,sub-000056_ses-000056_acq-adc_run-15001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([150, 76, 29])",AXIAL DIFUSION PROSTATA b50_1400_ADC,True,False,
+sub-000056,ses-000056,dwi,sub-000056_ses-000056_acq-bvalue_run-21001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",AX DIF GANGLIOS HASTA RIÑON b50_800_CALC 1500_CALC_BVAL,False,False,
+sub-000056,ses-000056,dwi,sub-000056_ses-000056_acq-bvalue_run-20001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",AX DIF GANGLIOS HASTA RIÑON b50_800_CALC 1500_ADC,False,False,
+sub-000126,ses-000126,anat,sub-000126_ses-000126_acq-propeller_run-3_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 26])",Sag T2 PROPELLER,True,False,
+sub-000126,ses-000126,anat,sub-000126_ses-000126_acq-propeller_run-300_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 26])",FL:D/Sag T2 PROPELLER,True,False,
+sub-000126,ses-000126,anat,sub-000126_ses-000126_acq-propeller_run-7_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 30])",Ax T2 PROPELLER,True,False,
+sub-000126,ses-000126,anat,sub-000126_ses-000126_acq-propeller_run-4_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 48])",Ax T2 PROP. PELVIS,True,False,
+sub-000126,ses-000126,anat,sub-000126_ses-000126_acq-propeller_run-700_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 30])",FL:D/Ax T2 PROPELLER,True,False,
+sub-000126,ses-000126,anat,sub-000126_ses-000126_acq-propeller_run-6_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 28])",Cor T2 PROPELLER,True,False,
+sub-000126,ses-000126,anat,sub-000126_ses-000126_acq-propeller_run-600_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 28])",FL:D/Cor T2 PROPELLER,True,False,
+sub-000126,ses-000126,dwi,sub-000126_ses-000126_acq-adc_run-800_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 22])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000126,ses-000126,dwi,sub-000126_ses-000126_acq-bvalue_run-5_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 32, 2])",Ax DWI b50-800 PELVIS,True,True,Ax DWI b50-800 PELVIS
+sub-000126,ses-000126,dwi,sub-000126_ses-000126_acq-adc_run-801_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 22])",Exponential Apparent Diffusion Coefficient,False,False,
+sub-000126,ses-000126,dwi,sub-000126_ses-000126_acq-adc_run-500_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 32])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000086,ses-000086,anat,sub-000086_ses-000086_acq-fse_run-8_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ax T2,True,False,
+sub-000086,ses-000086,anat,sub-000086_ses-000086_acq-fse_run-6_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 42])",CORONAL STIR FSE,True,False,
+sub-000086,ses-000086,anat,sub-000086_ses-000086_acq-fse_run-4_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000086,ses-000086,dwi,sub-000086_ses-000086_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000086,ses-000086,dwi,sub-000086_ses-000086_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000058,ses-000058,anat,sub-000058_ses-000058_acq-fse_run-5_bp-abdomen_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 28])",CORONAL STIR FSE,True,False,
+sub-000058,ses-000058,anat,sub-000058_ses-000058_acq-fse_run-2_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 19])",SAG T2 SSFSE,True,False,
+sub-000058,ses-000058,anat,sub-000058_ses-000058_acq-fse_run-10_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",ax T2,True,False,
+sub-000058,ses-000058,anat,sub-000058_ses-000058_acq-fse_run-7_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 26])",sag T2 FRFSE,True,False,
+sub-000058,ses-000058,dwi,sub-000058_ses-000058_acq-bvalue_run-11_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000058,ses-000058,dwi,sub-000058_ses-000058_acq-bvalue_run-12_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000017,ses-000017,anat,sub-000017_ses-000017_acq-fse_run-10_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 25])",ax T2,True,False,
+sub-000017,ses-000017,anat,sub-000017_ses-000017_acq-fse_run-6_bp-abdomen_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 40])",CORONAL STIR FSE,True,False,
+sub-000017,ses-000017,anat,sub-000017_ses-000017_acq-fse_run-9_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 22])",sag T2 FRFSE,True,False,
+sub-000017,ses-000017,anat,sub-000017_ses-000017_acq-fse_run-3_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 21])",SAG T2 SSFSE,True,False,
+sub-000017,ses-000017,dwi,sub-000017_ses-000017_acq-bvalue_run-12_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 25, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000017,ses-000017,dwi,sub-000017_ses-000017_acq-bvalue_run-13_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 25, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000095,ses-000095,anat,sub-000095_ses-000095_acq-fse_run-3_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 26])",SAG T2 FRFSE,True,False,
+sub-000095,ses-000095,anat,sub-000095_ses-000095_acq-fse_run-6_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 24])",Cor FSE IR,True,False,
+sub-000095,ses-000095,anat,sub-000095_ses-000095_acq-fse_run-8_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 24])",COR  T2 FRFSE,True,False,
+sub-000095,ses-000095,anat,sub-000095_ses-000095_acq-fse_run-9_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",AX T2 FRFSE HR,True,False,
+sub-000095,ses-000095,dwi,sub-000095_ses-000095_acq-bvalue_run-12_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",Ax DWI b2000,True,True,Ax DWI b2000
+sub-000095,ses-000095,dwi,sub-000095_ses-000095_acq-bvalue_run-14_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",Ax DWI b1500 FOV22 PRUEBA,True,True,Ax DWI b1500 FOV22 PRUEBA
+sub-000095,ses-000095,dwi,sub-000095_ses-000095_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",Ax DWI b1500,True,True,Ax DWI b1500
+sub-000095,ses-000095,dwi,sub-000095_ses-000095_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",Ax DWI b1000,True,True,Ax DWI b2000
+sub-000050,ses-000050,anat,sub-000050_ses-000050_acq-blade_run-9001_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 25])",t2_tse_cor_p2_384 blade,True,False,
+sub-000050,ses-000050,anat,sub-000050_ses-000050_acq-blade_run-8001_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 30])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000050,ses-000050,anat,sub-000050_ses-000050_acq-blade_run-7001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 56])",t2_blade_tra,True,False,
+sub-000050,ses-000050,anat,sub-000050_ses-000050_acq-fse_run-2001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 30])",t2_haste STIR_cor_p3_4mm,True,False,
+sub-000050,ses-000050,anat,sub-000050_ses-000050_acq-fse_run-10001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 30])",t2_tse_tra_p2_384 ESTRICTO,True,False,
+sub-000050,ses-000050,dwi,sub-000050_ses-000050_acq-bvalue_run-17001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",ep2d_diff GANGLIOS_b50_800_ CALC 1500 tra_p3_CALC_BVAL,False,False,
+sub-000050,ses-000050,dwi,sub-000050_ses-000050_acq-bvalue_run-12001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 30])",resolve_diff_b50_1400_tra_p2_ADC,False,False,
+sub-000050,ses-000050,dwi,sub-000050_ses-000050_acq-bvalue_run-13001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 30])",resolve_diff_b50_1400_tra_p2_CALC_BVAL,False,False,
+sub-000050,ses-000050,dwi,sub-000050_ses-000050_acq-bvalue_run-16001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",ep2d_diff GANGLIOS_b50_800_ CALC 1500 tra_p3_ADC,False,False,
+sub-000094,ses-000094,anat,sub-000094_ses-000094_acq-fse_run-6_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000094,ses-000094,anat,sub-000094_ses-000094_acq-fse_run-8_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",ax T2,True,False,
+sub-000094,ses-000094,anat,sub-000094_ses-000094_acq-fse_run-5_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000094,ses-000094,dwi,sub-000094_ses-000094_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000094,ses-000094,dwi,sub-000094_ses-000094_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000070,ses-000070,anat,sub-000070_ses-000070_acq-fse_run-15_bp-abdomen_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 22])",CORONAL STIR FSE,True,False,
+sub-000070,ses-000070,anat,sub-000070_ses-000070_acq-fse_run-14_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 22])",sag T2 FRFSE,True,False,
+sub-000070,ses-000070,anat,sub-000070_ses-000070_acq-fse_run-10_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 11])",sag T2 FRFSE,True,False,
+sub-000070,ses-000070,anat,sub-000070_ses-000070_acq-fse_run-16_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 16])",ax T2,True,False,
+sub-000070,ses-000070,anat,sub-000070_ses-000070_acq-fse_run-17_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 32])",ax T2,True,False,
+sub-000070,ses-000070,anat,sub-000070_ses-000070_acq-fse_run-8_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 13])",sag T2 FRFSE,True,False,
+sub-000070,ses-000070,dwi,sub-000070_ses-000070_acq-bvalue_run-20_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 32, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000070,ses-000070,dwi,sub-000070_ses-000070_acq-bvalue_run-19_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 32, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000157,ses-000157,anat,sub-000157_ses-000157_acq-propeller_run-700_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 30])",FL:D/Ax T2 PROPELLER,True,False,
+sub-000157,ses-000157,anat,sub-000157_ses-000157_acq-propeller_run-4_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 48])",Ax T2 PROP. PELVIS,True,False,
+sub-000157,ses-000157,anat,sub-000157_ses-000157_acq-propeller_run-3_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 20])",Sag T2 PROPELLER,True,False,
+sub-000157,ses-000157,anat,sub-000157_ses-000157_acq-propeller_run-6_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 26])",Cor T2 PROPELLER,True,False,
+sub-000157,ses-000157,anat,sub-000157_ses-000157_acq-propeller_run-600_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 26])",FL:D/Cor T2 PROPELLER,True,False,
+sub-000157,ses-000157,anat,sub-000157_ses-000157_acq-propeller_run-7_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 30])",Ax T2 PROPELLER,True,False,
+sub-000157,ses-000157,anat,sub-000157_ses-000157_acq-propeller_run-300_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 20])",FL:D/Sag T2 PROPELLER,True,False,
+sub-000157,ses-000157,dwi,sub-000157_ses-000157_acq-bvalue_run-5_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 32, 2])",Ax DWI b50-800 PELVIS,True,True,Ax DWI b50-800 PELVIS
+sub-000157,ses-000157,dwi,sub-000157_ses-000157_acq-adc_run-500_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 32])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000157,ses-000157,dwi,sub-000157_ses-000157_acq-adc_run-800_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 22])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000157,ses-000157,dwi,sub-000157_ses-000157_acq-adc_run-801_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 22])",Exponential Apparent Diffusion Coefficient,False,False,
+sub-000011,ses-000011,anat,sub-000011_ses-000011_acq-fse_run-5_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000011,ses-000011,anat,sub-000011_ses-000011_acq-fse_run-6_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000011,ses-000011,anat,sub-000011_ses-000011_acq-fse_run-8_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 30])",ax T2,True,False,
+sub-000011,ses-000011,dwi,sub-000011_ses-000011_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 30, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000011,ses-000011,dwi,sub-000011_ses-000011_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 30, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000139,ses-000139,anat,sub-000139_ses-000139_acq-fse_run-6_bp-abdomen_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000139,ses-000139,anat,sub-000139_ses-000139_acq-fse_run-7_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 22])",sag T2 FRFSE,True,False,
+sub-000139,ses-000139,anat,sub-000139_ses-000139_acq-fse_run-9_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 22])",ax T2,True,False,
+sub-000139,ses-000139,dwi,sub-000139_ses-000139_acq-bvalue_run-11_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 22, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000139,ses-000139,dwi,sub-000139_ses-000139_acq-bvalue_run-12_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 22, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000182,ses-000182,anat,sub-000182_ses-000182_acq-propeller_run-700_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 24])",FL:D/Cor T2 PROPELLER,True,False,
+sub-000182,ses-000182,anat,sub-000182_ses-000182_acq-propeller_run-400_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 16])",FL:D/Sag T2 PROPELLER,True,False,
+sub-000182,ses-000182,anat,sub-000182_ses-000182_acq-propeller_run-900_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 29])",FL:D/Ax T2 PROPELLER,True,False,
+sub-000182,ses-000182,anat,sub-000182_ses-000182_acq-propeller_run-5_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 52])",Ax T2 PROP. PELVIS,True,False,
+sub-000182,ses-000182,anat,sub-000182_ses-000182_acq-propeller_run-7_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 24])",Cor T2 PROPELLER,True,False,
+sub-000182,ses-000182,anat,sub-000182_ses-000182_acq-propeller_run-4_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 16])",Sag T2 PROPELLER,True,False,
+sub-000182,ses-000182,anat,sub-000182_ses-000182_acq-propeller_run-9_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 29])",Ax T2 PROPELLER,True,False,
+sub-000182,ses-000182,dwi,sub-000182_ses-000182_acq-adc_run-1000_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 22])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000182,ses-000182,dwi,sub-000182_ses-000182_acq-adc_run-1001_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 22])",Exponential Apparent Diffusion Coefficient,False,False,
+sub-000182,ses-000182,dwi,sub-000182_ses-000182_acq-adc_run-600_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 35])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000182,ses-000182,dwi,sub-000182_ses-000182_acq-bvalue_run-6_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 35, 2])",Ax DWI b50-800 PELVIS,True,True,Ax DWI b50-800 PELVIS
+sub-000045,ses-000045,anat,sub-000045_ses-000045_acq-propeller_run-800_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 26])",FL:D/Cor T2 PROPELLER,True,False,
+sub-000045,ses-000045,anat,sub-000045_ses-000045_acq-propeller_run-5_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 49])",Ax T2 PROP. PELVIS,True,False,
+sub-000045,ses-000045,anat,sub-000045_ses-000045_acq-propeller_run-900_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 41])",FL:D/Ax T2 PROPELLER,True,False,
+sub-000045,ses-000045,anat,sub-000045_ses-000045_acq-propeller_run-9_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 41])",Ax T2 PROPELLER,True,False,
+sub-000045,ses-000045,anat,sub-000045_ses-000045_acq-propeller_run-8_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 26])",Cor T2 PROPELLER,True,False,
+sub-000045,ses-000045,anat,sub-000045_ses-000045_acq-propeller_run-7_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 23])",Sag T2 PROPELLER,True,False,
+sub-000045,ses-000045,anat,sub-000045_ses-000045_acq-propeller_run-700_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 23])",FL:D/Sag T2 PROPELLER,True,False,
+sub-000045,ses-000045,dwi,sub-000045_ses-000045_acq-adc_run-600_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 33])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000045,ses-000045,dwi,sub-000045_ses-000045_acq-adc_run-1001_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 31])",Exponential Apparent Diffusion Coefficient,False,False,
+sub-000045,ses-000045,dwi,sub-000045_ses-000045_acq-bvalue_run-6_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 33, 2])",Ax DWI b50-800 PELVIS,True,True,Ax DWI b50-800 PELVIS
+sub-000045,ses-000045,dwi,sub-000045_ses-000045_acq-adc_run-1000_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 31])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000149,ses-000149,anat,sub-000149_ses-000149_acq-fse_run-7_bp-arm_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 26])",sag T2 FRFSE,True,False,
+sub-000149,ses-000149,anat,sub-000149_ses-000149_acq-fse_run-5_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000149,ses-000149,anat,sub-000149_ses-000149_acq-fse_run-8_bp-arm_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ax T2,True,False,
+sub-000149,ses-000149,dwi,sub-000149_ses-000149_acq-bvalue_run-10_bp-arm_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000149,ses-000149,dwi,sub-000149_ses-000149_acq-bvalue_run-11_bp-arm_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000109,ses-000109,anat,sub-000109_ses-000109_acq-fse_run-4_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000109,ses-000109,anat,sub-000109_ses-000109_acq-fse_run-5_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000109,ses-000109,dwi,sub-000109_ses-000109_acq-bvalue_run-8_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000109,ses-000109,dwi,sub-000109_ses-000109_acq-bvalue_run-7_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000029,ses-000029,anat,sub-000029_ses-000029_acq-fse_run-8_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000029,ses-000029,anat,sub-000029_ses-000029_acq-fse_run-5_bp-abdomen_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000029,ses-000029,anat,sub-000029_ses-000029_acq-fse_run-6_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000029,ses-000029,dwi,sub-000029_ses-000029_acq-bvalue_run-11_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000029,ses-000029,dwi,sub-000029_ses-000029_acq-bvalue_run-10_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000192,ses-000192,dwi,sub-000192_ses-000192_acq-adc_run-8_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([192, 192, 30])",Dw EPI b0-150-1000 -1400_ADC,True,False,
+sub-000002,ses-000002,dwi,sub-000002_ses-000002_acq-adc_run-9_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([192, 192, 36])",Dw EPI b0-150-1000 -1400 PELVIS_ADC,True,False,
+sub-000189,ses-000189,anat,sub-000189_ses-000189_acq-propeller_run-6_bp-pelvis_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",Ax T2 PROPELLER,True,False,
+sub-000189,ses-000189,anat,sub-000189_ses-000189_acq-fse_run-4_bp-pelvis_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 25])",Sag T2 FSE,True,False,
+sub-000189,ses-000189,anat,sub-000189_ses-000189_acq-fse_run-3_bp-pelvis_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([1024, 1024, 44])",Ax T1 FSE,True,False,
+sub-000189,ses-000189,anat,sub-000189_ses-000189_acq-fse_run-5_bp-pelvis_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 23])",Cor T2 FSE,True,False,
+sub-000189,ses-000189,anat,sub-000189_ses-000189_acq-propeller_run-40006_bp-pelvis_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ORIG Ax T2 PROPELLER,True,False,
+sub-000189,ses-000189,dwi,sub-000189_ses-000189_acq-adc_run-750_bp-pelvis_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 28])",ADC (10^-6 mm²/s):Feb 17 2020 10-59-35 CET,True,False,
+sub-000189,ses-000189,dwi,sub-000189_ses-000189_acq-adc_run-250_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 44])",ADC (10^-6 mm²/s):Feb 17 2020 10-36-04 CET,True,False,
+sub-000189,ses-000189,dwi,sub-000189_ses-000189_acq-adc_run-653_bp-pelvis_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([512, 512, 28])","Reg(9511/6,9511/750) ADC",True,False,
+sub-000189,ses-000189,dwi,sub-000189_ses-000189_acq-adc_run-652_bp-pelvis_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([512, 512, 44])","Reg(9511/250,9511/6) ADC_REGISTRADO",False,False,
+sub-000189,ses-000189,dwi,sub-000189_ses-000189_acq-bvalue_run-200_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 44])",DW_Synthetic: AXI PELVIS DWI B50-800,True,False,
+sub-000189,ses-000189,dwi,sub-000189_ses-000189_acq-bvalue_run-2_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 44, 2])",AXI PELVIS DWI B50-800,True,True,AXI PELVIS DWI B50-800
+sub-000117,ses-000117,anat,sub-000117_ses-000117_acq-fse_run-6_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 30])",CORONAL STIR FSE,True,False,
+sub-000117,ses-000117,anat,sub-000117_ses-000117_acq-fse_run-9_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000117,ses-000117,anat,sub-000117_ses-000117_acq-fse_run-3_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 21])",SAG T2 SSFSE,True,False,
+sub-000117,ses-000117,anat,sub-000117_ses-000117_acq-fse_run-12_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 30])",ax T2,True,False,
+sub-000117,ses-000117,dwi,sub-000117_ses-000117_acq-bvalue_run-14_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 30, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000117,ses-000117,dwi,sub-000117_ses-000117_acq-bvalue_run-13_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 30, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000124,ses-000124,anat,sub-000124_ses-000124_acq-fse_run-8_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 22])",ax T2,True,False,
+sub-000124,ses-000124,anat,sub-000124_ses-000124_acq-fse_run-5_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 20])",sag T2 FRFSE,True,False,
+sub-000124,ses-000124,anat,sub-000124_ses-000124_acq-fse_run-4_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 26])",CORONAL STIR FSE,True,False,
+sub-000124,ses-000124,dwi,sub-000124_ses-000124_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 22, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000124,ses-000124,dwi,sub-000124_ses-000124_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 22, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000031,ses-000031,anat,sub-000031_ses-000031_acq-blade_run-12001_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 25])",t2_tse_cor_p2_384 blade,True,False,
+sub-000031,ses-000031,anat,sub-000031_ses-000031_acq-fse_run-13001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 25])",t2_tse_tra_p2_384 ESTRICTO,True,False,
+sub-000031,ses-000031,anat,sub-000031_ses-000031_acq-blade_run-10001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 56])",AXIAL T2 TSE BLADE ADENOPATIAS,True,False,
+sub-000031,ses-000031,anat,sub-000031_ses-000031_acq-blade_run-11001_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 30])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000031,ses-000031,anat,sub-000031_ses-000031_acq-fse_run-7001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 36])",CORONAL HASTE STIR T2,True,False,
+sub-000031,ses-000031,dwi,sub-000031_ses-000031_acq-bvalue_run-23001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",AX DIF GANGLIOS HASTA RIÑON b50_800_CALC 1500_ADC,False,False,
+sub-000031,ses-000031,dwi,sub-000031_ses-000031_acq-adc_run-15001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([150, 76, 25])",AXIAL DIFUSION PROSTATA b50_1400_ADC,True,False,
+sub-000031,ses-000031,dwi,sub-000031_ses-000031_acq-bvalue_run-24001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",AX DIF GANGLIOS HASTA RIÑON b50_800_CALC 1500_CALC_BVAL,False,False,
+sub-000038,ses-000038,anat,sub-000038_ses-000038_acq-fse_run-6_bp-arm_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 32])",sag T2 FRFSE,True,False,
+sub-000038,ses-000038,anat,sub-000038_ses-000038_acq-fse_run-4_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 22])",COR STIR FSE,True,False,
+sub-000038,ses-000038,anat,sub-000038_ses-000038_acq-fse_run-3_bp-arm_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 22])",COR T1 FSE,True,False,
+sub-000038,ses-000038,anat,sub-000038_ses-000038_acq-fse_run-7_bp-arm_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",ax T2,True,False,
+sub-000038,ses-000038,dwi,sub-000038_ses-000038_acq-bvalue_run-10_bp-arm_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000038,ses-000038,dwi,sub-000038_ses-000038_acq-bvalue_run-9_bp-arm_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000137,ses-000137,anat,sub-000137_ses-000137_acq-propeller_run-300_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 20])",FL:D/Sag T2 PROPELLER,True,False,
+sub-000137,ses-000137,anat,sub-000137_ses-000137_acq-propeller_run-3_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 20])",Sag T2 PROPELLER,True,False,
+sub-000137,ses-000137,anat,sub-000137_ses-000137_acq-propeller_run-600_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 24])",FL:D/Cor T2 PROPELLER,True,False,
+sub-000137,ses-000137,anat,sub-000137_ses-000137_acq-propeller_run-700_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 30])",FL:D/Ax T2 PROPELLER,True,False,
+sub-000137,ses-000137,anat,sub-000137_ses-000137_acq-propeller_run-4_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 48])",Ax T2 PROP. PELVIS,True,False,
+sub-000137,ses-000137,anat,sub-000137_ses-000137_acq-propeller_run-6_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 24])",Cor T2 PROPELLER,True,False,
+sub-000137,ses-000137,anat,sub-000137_ses-000137_acq-propeller_run-7_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 30])",Ax T2 PROPELLER,True,False,
+sub-000137,ses-000137,dwi,sub-000137_ses-000137_acq-adc_run-800_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 22])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000137,ses-000137,dwi,sub-000137_ses-000137_acq-adc_run-500_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 32])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000137,ses-000137,dwi,sub-000137_ses-000137_acq-bvalue_run-5_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 32, 2])",Ax DWI b50-800 PELVIS,True,True,Ax DWI b50-800 PELVIS
+sub-000137,ses-000137,dwi,sub-000137_ses-000137_acq-adc_run-801_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 22])",Exponential Apparent Diffusion Coefficient,False,False,
+sub-000118,ses-000118,anat,sub-000118_ses-000118_acq-fse_run-6_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000118,ses-000118,anat,sub-000118_ses-000118_acq-fse_run-9_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000118,ses-000118,anat,sub-000118_ses-000118_acq-fse_run-5_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 20])",sag T2 FRFSE,True,False,
+sub-000118,ses-000118,dwi,sub-000118_ses-000118_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000118,ses-000118,dwi,sub-000118_ses-000118_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000040,ses-000040,anat,sub-000040_ses-000040_acq-fse_run-9_bp-cervix_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",AX T2 FRFSE HR,True,False,
+sub-000040,ses-000040,anat,sub-000040_ses-000040_acq-fse_run-3_bp-cervix_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 26])",SAG T2 FRFSE,True,False,
+sub-000040,ses-000040,anat,sub-000040_ses-000040_acq-fse_run-8_bp-cervix_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 24])",COR  T2 FRFSE,True,False,
+sub-000040,ses-000040,anat,sub-000040_ses-000040_acq-fse_run-6_bp-cervix_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 24])",Cor FSE IR,True,False,
+sub-000040,ses-000040,dwi,sub-000040_ses-000040_acq-bvalue_run-10_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",Ax DWI b1000,True,True,Ax DWI b2000
+sub-000040,ses-000040,dwi,sub-000040_ses-000040_acq-bvalue_run-12_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",Ax DWI b2000,True,True,Ax DWI b2000
+sub-000040,ses-000040,dwi,sub-000040_ses-000040_acq-bvalue_run-11_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",Ax DWI b1500,True,True,Ax DWI b1500
+sub-000116,ses-000116,anat,sub-000116_ses-000116_acq-fse_run-13_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 22])",COR  T2 FRFSE,True,False,
+sub-000116,ses-000116,anat,sub-000116_ses-000116_acq-fse_run-5_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 13])",SAG T2 SSFSE BH,True,False,
+sub-000116,ses-000116,anat,sub-000116_ses-000116_acq-fse_run-11_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 24])",Cor FSE IR,True,False,
+sub-000116,ses-000116,anat,sub-000116_ses-000116_acq-fse_run-6_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 13])",SAG T2 SSFSE BH,True,False,
+sub-000116,ses-000116,anat,sub-000116_ses-000116_acq-fse_run-14_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",AX T2 FRFSE HR,True,False,
+sub-000116,ses-000116,anat,sub-000116_ses-000116_acq-fse_run-3_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 13])",SAG T2 SSFSE BH,True,False,
+sub-000116,ses-000116,anat,sub-000116_ses-000116_acq-fse_run-18_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",AX T2 FRFSE HR,True,False,
+sub-000116,ses-000116,anat,sub-000116_ses-000116_acq-fse_run-8_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",SAG T2 FRFSE,True,False,
+sub-000116,ses-000116,dwi,sub-000116_ses-000116_acq-bvalue_run-16_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",Ax DWI b1500,True,True,Ax DWI b1500
+sub-000116,ses-000116,dwi,sub-000116_ses-000116_acq-bvalue_run-17_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",Ax DWI b2000,True,True,Ax DWI b2000
+sub-000116,ses-000116,dwi,sub-000116_ses-000116_acq-bvalue_run-15_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",Ax DWI b1000,True,True,Ax DWI b2000
+sub-000013,ses-000013,anat,sub-000013_ses-000013_acq-blade_run-10001_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 38])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000013,ses-000013,anat,sub-000013_ses-000013_acq-blade_run-12001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 30])",t2_tse_tra_p2_384 ESTRICTO CON BLADE,True,False,
+sub-000013,ses-000013,anat,sub-000013_ses-000013_acq-fse_run-2001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 40])",CORONAL HASTE STIR T2,True,False,
+sub-000013,ses-000013,anat,sub-000013_ses-000013_acq-blade_run-11001_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 28])",t2_tse_cor_p2_384 blade,True,False,
+sub-000013,ses-000013,anat,sub-000013_ses-000013_acq-blade_run-9001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 56])",AXIAL T2 TSE BLADE ADENOPATIAS,True,False,
+sub-000013,ses-000013,dwi,sub-000013_ses-000013_acq-bvalue_run-19001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 46])",AX DIF GANGLIOS HASTA RIÑON b50_800_CALC 1500_ADC,False,False,
+sub-000013,ses-000013,dwi,sub-000013_ses-000013_acq-bvalue_run-20001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 46])",AX DIF GANGLIOS HASTA RIÑON b50_800_CALC 1500_CALC_BVAL,False,False,
+sub-000013,ses-000013,dwi,sub-000013_ses-000013_acq-adc_run-14001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([150, 76, 25])",AXIAL DIFUSION PROSTATA b50_1400_ADC,True,False,
+sub-000051,ses-000051,anat,sub-000051_ses-000051_acq-blade_run-12001_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 30])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000051,ses-000051,anat,sub-000051_ses-000051_acq-fse_run-14001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 28])",t2_tse_tra_p2_384 ESTRICTO,True,False,
+sub-000051,ses-000051,anat,sub-000051_ses-000051_acq-fse_run-2001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 30])",t2_haste STIR_cor_p3_4mm,True,False,
+sub-000051,ses-000051,anat,sub-000051_ses-000051_acq-blade_run-13001_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 25])",t2_tse_cor_p2_384 blade,True,False,
+sub-000051,ses-000051,dwi,sub-000051_ses-000051_acq-bvalue_run-21001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 240, 66])",ep2d_diff GANGLIOS_b50_800_ CALC 1500 tra_p3_CALC_BVAL,False,False,
+sub-000051,ses-000051,dwi,sub-000051_ses-000051_acq-bvalue_run-20001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 240, 66])",ep2d_diff GANGLIOS_b50_800_ CALC 1500 tra_p3_ADC,False,False,
+sub-000051,ses-000051,dwi,sub-000051_ses-000051_acq-bvalue_run-17001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 28])",resolve_diff_b50_1400_tra_p2_CALC_BVAL,False,False,
+sub-000051,ses-000051,dwi,sub-000051_ses-000051_acq-bvalue_run-16001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 28])",resolve_diff_b50_1400_tra_p2_ADC,False,False,
+sub-000181,ses-000181,dwi,sub-000181_ses-000181_acq-adc_run-8_bp-cervix_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([192, 192, 30])",Dw EPI b0-150-1000 -1400_ADC,True,False,
+sub-000068,ses-000068,anat,sub-000068_ses-000068_acq-fse_run-7_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000068,ses-000068,anat,sub-000068_ses-000068_acq-fse_run-10_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",ax T2,True,False,
+sub-000068,ses-000068,anat,sub-000068_ses-000068_acq-fse_run-5_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000068,ses-000068,dwi,sub-000068_ses-000068_acq-bvalue_run-8_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000068,ses-000068,dwi,sub-000068_ses-000068_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000100,ses-000100,anat,sub-000100_ses-000100_acq-fse_run-11_bp-arm_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000100,ses-000100,anat,sub-000100_ses-000100_acq-fse_run-10_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 30])",CORONAL STIR FSE,True,False,
+sub-000100,ses-000100,anat,sub-000100_ses-000100_acq-fse_run-9_bp-arm_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000100,ses-000100,dwi,sub-000100_ses-000100_acq-bvalue_run-13_bp-arm_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000100,ses-000100,dwi,sub-000100_ses-000100_acq-bvalue_run-14_bp-arm_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000114,ses-000114,anat,sub-000114_ses-000114_acq-fse_run-7_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",ax T2,True,False,
+sub-000114,ses-000114,anat,sub-000114_ses-000114_acq-fse_run-4_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000114,ses-000114,anat,sub-000114_ses-000114_acq-fse_run-5_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 26])",sag T2 FRFSE,True,False,
+sub-000114,ses-000114,anat,sub-000114_ses-000114_acq-fse_run-3_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 24])",COR T1 FSE,True,False,
+sub-000114,ses-000114,dwi,sub-000114_ses-000114_acq-bvalue_run-9_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000114,ses-000114,dwi,sub-000114_ses-000114_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000101,ses-000101,anat,sub-000101_ses-000101_acq-fse_run-4_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 30])",ax T2,True,False,
+sub-000101,ses-000101,anat,sub-000101_ses-000101_acq-fse_run-3_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000101,ses-000101,anat,sub-000101_ses-000101_acq-fse_run-8_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ax T2,True,False,
+sub-000101,ses-000101,dwi,sub-000101_ses-000101_acq-bvalue_run-9_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000101,ses-000101,dwi,sub-000101_ses-000101_acq-bvalue_run-10_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000122,ses-000122,anat,sub-000122_ses-000122_acq-fse_run-9_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 32])",sag T2 FRFSE,True,False,
+sub-000122,ses-000122,anat,sub-000122_ses-000122_acq-fse_run-13_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000122,ses-000122,anat,sub-000122_ses-000122_acq-fse_run-6_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 32])",sag T2 FRFSE,True,False,
+sub-000122,ses-000122,anat,sub-000122_ses-000122_acq-fse_run-5_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 26])",CORONAL STIR FSE,True,False,
+sub-000122,ses-000122,anat,sub-000122_ses-000122_acq-fse_run-12_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 32])",sag T2 FRFSE,True,False,
+sub-000122,ses-000122,dwi,sub-000122_ses-000122_acq-bvalue_run-14_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000122,ses-000122,dwi,sub-000122_ses-000122_acq-bvalue_run-15_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000188,ses-000188,dwi,sub-000188_ses-000188_acq-adc_run-9_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([192, 192, 30])",Dw EPI b0-150-1000 -1400_ADC,True,False,
+sub-000089,ses-000089,anat,sub-000089_ses-000089_acq-fse_run-5_bp-rm prostata con_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000089,ses-000089,anat,sub-000089_ses-000089_acq-fse_run-6_bp-rm prostata con_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000089,ses-000089,anat,sub-000089_ses-000089_acq-fse_run-8_bp-rm prostata con_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000089,ses-000089,dwi,sub-000089_ses-000089_acq-bvalue_run-10_bp-rm prostata con_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000089,ses-000089,dwi,sub-000089_ses-000089_acq-bvalue_run-11_bp-rm prostata con_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000027,ses-000027,anat,sub-000027_ses-000027_acq-blade_run-10001_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 30])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000027,ses-000027,anat,sub-000027_ses-000027_acq-blade_run-11001_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 25])",t2_tse_cor_p2_384 blade,True,False,
+sub-000027,ses-000027,anat,sub-000027_ses-000027_acq-fse_run-2001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 30])",CORONAL HASTE STIR T2,True,False,
+sub-000027,ses-000027,anat,sub-000027_ses-000027_acq-fse_run-12001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 25])",t2_tse_tra_p2_384 ESTRICTO,True,False,
+sub-000027,ses-000027,anat,sub-000027_ses-000027_acq-blade_run-9001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 56])",AXIAL T2 TSE BLADE ADENOPATIAS,True,False,
+sub-000027,ses-000027,dwi,sub-000027_ses-000027_acq-bvalue_run-20001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",AX DIF GANGLIOS HASTA RIÑON b50_800_CALC 1500_CALC_BVAL,False,False,
+sub-000027,ses-000027,dwi,sub-000027_ses-000027_acq-adc_run-14001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([150, 76, 25])",AXIAL DIFUSION PROSTATA b50_1400_ADC,True,False,
+sub-000027,ses-000027,dwi,sub-000027_ses-000027_acq-bvalue_run-19001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",AX DIF GANGLIOS HASTA RIÑON b50_800_CALC 1500_ADC,False,False,
+sub-000001,ses-000001,anat,sub-000001_ses-000001_acq-blade_run-9001_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 25])",t2_tse_cor_p2_384 blade,True,False,
+sub-000001,ses-000001,anat,sub-000001_ses-000001_acq-fse_run-10001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 25])",t2_tse_tra_p2_384 ESTRICTO,True,False,
+sub-000001,ses-000001,anat,sub-000001_ses-000001_acq-blade_run-7001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 50])",t2_blade_tra,True,False,
+sub-000001,ses-000001,anat,sub-000001_ses-000001_acq-fse_run-2001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 30])",t2_haste STIR_cor_p3_4mm,True,False,
+sub-000001,ses-000001,anat,sub-000001_ses-000001_acq-blade_run-8001_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 30])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000001,ses-000001,dwi,sub-000001_ses-000001_acq-bvalue_run-13001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 25])",resolve_diff_b50_1400_tra_p2_CALC_BVAL,False,False,
+sub-000001,ses-000001,dwi,sub-000001_ses-000001_acq-bvalue_run-12001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 25])",resolve_diff_b50_1400_tra_p2_ADC,False,False,
+sub-000055,ses-000055,anat,sub-000055_ses-000055_acq-fse_run-11_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000055,ses-000055,anat,sub-000055_ses-000055_acq-fse_run-4_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000055,ses-000055,anat,sub-000055_ses-000055_acq-fse_run-3_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000055,ses-000055,dwi,sub-000055_ses-000055_acq-bvalue_run-6_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000055,ses-000055,dwi,sub-000055_ses-000055_acq-bvalue_run-7_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000053,ses-000053,anat,sub-000053_ses-000053_acq-fse_run-10_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",ax T2,True,False,
+sub-000053,ses-000053,anat,sub-000053_ses-000053_acq-fse_run-4_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 15])",SAG T2 SSFSE BH,True,False,
+sub-000053,ses-000053,anat,sub-000053_ses-000053_acq-fse_run-8_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000053,ses-000053,anat,sub-000053_ses-000053_acq-fse_run-7_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 26])",CORONAL STIR FSE,True,False,
+sub-000053,ses-000053,dwi,sub-000053_ses-000053_acq-bvalue_run-13_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000053,ses-000053,dwi,sub-000053_ses-000053_acq-bvalue_run-12_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000125,ses-000125,anat,sub-000125_ses-000125_acq-fse_run-7_bp-arm_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 19])",sag T2 SSFSE BH,True,False,
+sub-000125,ses-000125,anat,sub-000125_ses-000125_acq-fse_run-4_bp-arm_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 20])",sag T2 FRFSE,True,False,
+sub-000125,ses-000125,anat,sub-000125_ses-000125_acq-fse_run-8_bp-arm_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 20])",sag T2 FRFSE,True,False,
+sub-000125,ses-000125,anat,sub-000125_ses-000125_acq-fse_run-11_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000125,ses-000125,anat,sub-000125_ses-000125_acq-fse_run-13_bp-arm_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",ax T2,True,False,
+sub-000125,ses-000125,dwi,sub-000125_ses-000125_acq-bvalue_run-15_bp-arm_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000125,ses-000125,dwi,sub-000125_ses-000125_acq-bvalue_run-16_bp-arm_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000014,ses-000014,anat,sub-000014_ses-000014_acq-fse_run-7_bp-cervix_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",COR STIR FSE,True,False,
+sub-000014,ses-000014,anat,sub-000014_ses-000014_acq-fse_run-3_bp-cervix_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 32])",SAG T2 SSFSE,True,False,
+sub-000014,ses-000014,anat,sub-000014_ses-000014_acq-fse_run-6_bp-cervix_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",SAG T2 FRFSE,True,False,
+sub-000014,ses-000014,anat,sub-000014_ses-000014_acq-fse_run-5_bp-cervix_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 24])",COR T1 FSE,True,False,
+sub-000014,ses-000014,dwi,sub-000014_ses-000014_acq-bvalue_run-11_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1500,True,True,ax dif  b1500
+sub-000014,ses-000014,dwi,sub-000014_ses-000014_acq-bvalue_run-10_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000014,ses-000014,dwi,sub-000014_ses-000014_acq-bvalue_run-12_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax DWI b2000,True,True,ax DWI b2000
+sub-000039,ses-000039,anat,sub-000039_ses-000039_acq-fse_run-7_bp-cervix_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000039,ses-000039,anat,sub-000039_ses-000039_acq-fse_run-8_bp-cervix_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ax T2,True,False,
+sub-000039,ses-000039,anat,sub-000039_ses-000039_acq-fse_run-6_bp-cervix_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000039,ses-000039,dwi,sub-000039_ses-000039_acq-bvalue_run-10_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000039,ses-000039,dwi,sub-000039_ses-000039_acq-bvalue_run-11_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000186,ses-000186,anat,sub-000186_ses-000186_acq-propeller_run-7_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 29])",Ax T2 PROPELLER,True,False,
+sub-000186,ses-000186,anat,sub-000186_ses-000186_acq-propeller_run-6_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 31])",Cor T2 PROPELLER,True,False,
+sub-000186,ses-000186,anat,sub-000186_ses-000186_acq-propeller_run-600_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 31])",FL:D/Cor T2 PROPELLER,True,False,
+sub-000186,ses-000186,anat,sub-000186_ses-000186_acq-propeller_run-4_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 46])",Ax T2 PROP. PELVIS,True,False,
+sub-000186,ses-000186,anat,sub-000186_ses-000186_acq-propeller_run-200_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 21])",FL:D/Sag T2 PROPELLER,True,False,
+sub-000186,ses-000186,anat,sub-000186_ses-000186_acq-propeller_run-2_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 21])",Sag T2 PROPELLER,True,False,
+sub-000186,ses-000186,anat,sub-000186_ses-000186_acq-propeller_run-700_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 29])",FL:D/Ax T2 PROPELLER,True,False,
+sub-000186,ses-000186,dwi,sub-000186_ses-000186_acq-adc_run-800_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 22])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000186,ses-000186,dwi,sub-000186_ses-000186_acq-adc_run-500_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 31])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000186,ses-000186,dwi,sub-000186_ses-000186_acq-bvalue_run-5_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 31, 2])",Ax DWI b50-800 PELVIS,True,True,Ax DWI b50-800 PELVIS
+sub-000186,ses-000186,dwi,sub-000186_ses-000186_acq-adc_run-801_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 22])",Exponential Apparent Diffusion Coefficient,False,False,
+sub-000183,ses-000183,anat,sub-000183_ses-000183_acq-fse_run-6_bp-pelvis_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 23])",Sag T2 FSE,True,False,
+sub-000183,ses-000183,anat,sub-000183_ses-000183_acq-fse_run-8_bp-pelvis_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 25])",Cor T2 FSE,True,False,
+sub-000183,ses-000183,anat,sub-000183_ses-000183_acq-fse_run-4_bp-hip_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 44])",Ax T1 FSE PELVIS,True,False,
+sub-000183,ses-000183,anat,sub-000183_ses-000183_acq-fse_run-7_bp-pelvis_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",Ax T2 FSE,True,False,
+sub-000183,ses-000183,dwi,sub-000183_ses-000183_acq-adc_run-1050_bp-pelvis_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 28])",ADC (10^-6 mm²/s):Dec 02 2019 12-02-00 CET,True,False,
+sub-000183,ses-000183,dwi,sub-000183_ses-000183_acq-bvalue_run-300_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 44])",DW_Synthetic: AXI PELVIS DWI B50-800,True,False,
+sub-000183,ses-000183,dwi,sub-000183_ses-000183_acq-bvalue_run-3_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 44, 2])",AXI PELVIS DWI B50-800,True,True,AXI PELVIS DWI B50-800
+sub-000183,ses-000183,dwi,sub-000183_ses-000183_acq-adc_run-350_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 44])",ADC (10^-6 mm²/s):Dec 02 2019 11-24-07 CET,True,False,
+sub-000191,ses-000191,anat,sub-000191_ses-000191_acq-propeller_run-8_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 29])",Ax T2 PROPELLER,True,False,
+sub-000191,ses-000191,anat,sub-000191_ses-000191_acq-propeller_run-5_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 52])",Ax T2 PROP. PELVIS,True,False,
+sub-000191,ses-000191,anat,sub-000191_ses-000191_acq-propeller_run-7_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 19])",Cor T2 PROPELLER,True,False,
+sub-000191,ses-000191,anat,sub-000191_ses-000191_acq-propeller_run-4_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 18])",Sag T2 PROPELLER,True,False,
+sub-000191,ses-000191,anat,sub-000191_ses-000191_acq-propeller_run-400_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 18])",FL:D/Sag T2 PROPELLER,True,False,
+sub-000191,ses-000191,anat,sub-000191_ses-000191_acq-propeller_run-800_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 29])",FL:D/Ax T2 PROPELLER,True,False,
+sub-000191,ses-000191,anat,sub-000191_ses-000191_acq-propeller_run-700_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 19])",FL:D/Cor T2 PROPELLER,True,False,
+sub-000191,ses-000191,dwi,sub-000191_ses-000191_acq-adc_run-901_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 22])",Exponential Apparent Diffusion Coefficient,False,False,
+sub-000191,ses-000191,dwi,sub-000191_ses-000191_acq-adc_run-600_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 35])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000191,ses-000191,dwi,sub-000191_ses-000191_acq-adc_run-900_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 22])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000191,ses-000191,dwi,sub-000191_ses-000191_acq-bvalue_run-6_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 35, 2])",Ax DWI b50-800 PELVIS,True,True,Ax DWI b50-800 PELVIS
+sub-000020,ses-000020,anat,sub-000020_ses-000020_acq-fse_run-9_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 32])",ax T2,True,False,
+sub-000020,ses-000020,anat,sub-000020_ses-000020_acq-fse_run-6_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 28])",sag T2 FRFSE,True,False,
+sub-000020,ses-000020,anat,sub-000020_ses-000020_acq-fse_run-7_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 23])",CORONAL STIR FSE,True,False,
+sub-000020,ses-000020,dwi,sub-000020_ses-000020_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 32, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000008,ses-000008,anat,sub-000008_ses-000008_acq-fse_run-11_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000008,ses-000008,anat,sub-000008_ses-000008_acq-fse_run-10_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 32])",sag T2 FRFSE,True,False,
+sub-000008,ses-000008,anat,sub-000008_ses-000008_acq-fse_run-7_bp-abdomen_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",COR STIR FSE,True,False,
+sub-000008,ses-000008,anat,sub-000008_ses-000008_acq-fse_run-8_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 32])",sag T2 FRFSE,True,False,
+sub-000008,ses-000008,dwi,sub-000008_ses-000008_acq-bvalue_run-14_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000008,ses-000008,dwi,sub-000008_ses-000008_acq-bvalue_run-12_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1000,True,True,ax dif b1000
+sub-000046,ses-000046,anat,sub-000046_ses-000046_acq-fse_run-6_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 28])",CORONAL STIR FSE,True,False,
+sub-000046,ses-000046,anat,sub-000046_ses-000046_acq-fse_run-7_bp-arm_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000046,ses-000046,anat,sub-000046_ses-000046_acq-fse_run-9_bp-arm_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ax T2,True,False,
+sub-000046,ses-000046,dwi,sub-000046_ses-000046_acq-bvalue_run-11_bp-arm_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000046,ses-000046,dwi,sub-000046_ses-000046_acq-bvalue_run-12_bp-arm_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000036,ses-000036,anat,sub-000036_ses-000036_acq-fse_run-8_bp-cervix_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ax T2,True,False,
+sub-000036,ses-000036,anat,sub-000036_ses-000036_acq-fse_run-4_bp-cervix_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 22])",sag T2 FRFSE,True,False,
+sub-000036,ses-000036,anat,sub-000036_ses-000036_acq-fse_run-6_bp-cervix_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 22])",CORONAL STIR FSE,True,False,
+sub-000036,ses-000036,dwi,sub-000036_ses-000036_acq-bvalue_run-9_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000036,ses-000036,dwi,sub-000036_ses-000036_acq-bvalue_run-11_bp-cervix_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000147,ses-000147,anat,sub-000147_ses-000147_acq-fse_run-3_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 26])",SAG T2 FRFSE,True,False,
+sub-000147,ses-000147,anat,sub-000147_ses-000147_acq-fse_run-9_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",AX T2 FRFSE HR,True,False,
+sub-000147,ses-000147,anat,sub-000147_ses-000147_acq-fse_run-8_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 24])",COR  T2 FRFSE,True,False,
+sub-000147,ses-000147,anat,sub-000147_ses-000147_acq-fse_run-6_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 24])",Cor FSE IR,True,False,
+sub-000147,ses-000147,dwi,sub-000147_ses-000147_acq-bvalue_run-12_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",Ax DWI b2000,True,True,Ax DWI b2000
+sub-000147,ses-000147,dwi,sub-000147_ses-000147_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",Ax DWI b1000,True,True,Ax DWI b2000
+sub-000147,ses-000147,dwi,sub-000147_ses-000147_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",Ax DWI b1500,True,True,Ax DWI b1500
+sub-000164,ses-000164,anat,sub-000164_ses-000164_acq-fse_run-10_bp-cervix_vp-sag_stir.nii.gz,sag,stir,"torch.Size([256, 256, 20])",SAGITAL STIR,True,False,
+sub-000164,ses-000164,dwi,sub-000164_ses-000164_acq-adc_run-6_bp-cervix_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([192, 192, 30])",DIFUSION EPI b0-800 PELVIS_ADC,True,False,
+sub-000144,ses-000144,anat,sub-000144_ses-000144_acq-fse_run-12001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 30])",AXIAL T2 TSE,True,False,
+sub-000144,ses-000144,anat,sub-000144_ses-000144_acq-fse_run-11001_bp-arm_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([384, 384, 25])",CORONAL T2 TSE,True,False,
+sub-000144,ses-000144,anat,sub-000144_ses-000144_acq-fse_run-2001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 30])",CORONAL HASTE STIR T2,True,False,
+sub-000144,ses-000144,anat,sub-000144_ses-000144_acq-blade_run-9001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 64])",AXIAL T2 TSE BLADE ADENOPATIAS,True,False,
+sub-000144,ses-000144,anat,sub-000144_ses-000144_acq-fse_run-10001_bp-arm_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([384, 384, 28])",SAGITAL T2 TSE,True,False,
+sub-000144,ses-000144,dwi,sub-000144_ses-000144_acq-bvalue_run-19001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 60])",AXIAL DIFUSION GANGLIOS b50_800_CALC 1500_ADC,True,False,
+sub-000144,ses-000144,dwi,sub-000144_ses-000144_acq-adc_run-14001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([150, 76, 30])",AXIAL DIFUSION PROSTATA b50_1400_ADC,True,False,
+sub-000012,ses-000012,anat,sub-000012_ses-000012_acq-fse_run-5_bp-abdomen_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000012,ses-000012,anat,sub-000012_ses-000012_acq-fse_run-6_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000012,ses-000012,anat,sub-000012_ses-000012_acq-fse_run-8_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000012,ses-000012,dwi,sub-000012_ses-000012_acq-bvalue_run-10_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000012,ses-000012,dwi,sub-000012_ses-000012_acq-bvalue_run-11_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000037,ses-000037,anat,sub-000037_ses-000037_acq-fse_run-5_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000037,ses-000037,anat,sub-000037_ses-000037_acq-fse_run-8_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",ax T2,True,False,
+sub-000037,ses-000037,anat,sub-000037_ses-000037_acq-fse_run-6_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",ax T2,True,False,
+sub-000037,ses-000037,anat,sub-000037_ses-000037_acq-fse_run-12_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000037,ses-000037,anat,sub-000037_ses-000037_acq-fse_run-3_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 20])",sag T2 FRFSE,True,False,
+sub-000037,ses-000037,dwi,sub-000037_ses-000037_acq-bvalue_run-9_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000037,ses-000037,dwi,sub-000037_ses-000037_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000019,ses-000019,anat,sub-000019_ses-000019_acq-fse_run-3_bp-abdomen_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000019,ses-000019,anat,sub-000019_ses-000019_acq-fse_run-7_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000019,ses-000019,anat,sub-000019_ses-000019_acq-fse_run-4_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000019,ses-000019,anat,sub-000019_ses-000019_acq-fse_run-5_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 24])",COR T1 FSE,True,False,
+sub-000019,ses-000019,dwi,sub-000019_ses-000019_acq-bvalue_run-9_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000019,ses-000019,dwi,sub-000019_ses-000019_acq-bvalue_run-10_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000010,ses-000010,anat,sub-000010_ses-000010_acq-blade_run-10001_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 34])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000010,ses-000010,anat,sub-000010_ses-000010_acq-blade_run-11001_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 25])",t2_tse_cor_p2_384 blade,True,False,
+sub-000010,ses-000010,anat,sub-000010_ses-000010_acq-blade_run-9001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 64])",AXIAL T2 TSE BLADE ADENOPATIAS,True,False,
+sub-000010,ses-000010,anat,sub-000010_ses-000010_acq-fse_run-2001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 38])",CORONAL HASTE STIR T2,True,False,
+sub-000158,ses-000158,dwi,sub-000158_ses-000158_acq-adc_run-7_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([192, 192, 30])",Dw EPI b0-150-1000 -1400_ADC,True,False,
+sub-000128,ses-000128,anat,sub-000128_ses-000128_acq-blade_run-11001_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 25])",t2_tse_cor_p2_384 blade,True,False,
+sub-000128,ses-000128,anat,sub-000128_ses-000128_acq-fse_run-12001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 27])",t2_tse_tra_p2_384 ESTRICTO,True,False,
+sub-000128,ses-000128,anat,sub-000128_ses-000128_acq-blade_run-9001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 56])",AXIAL T2 TSE BLADE ADENOPATIAS,True,False,
+sub-000128,ses-000128,anat,sub-000128_ses-000128_acq-blade_run-10001_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 30])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000128,ses-000128,anat,sub-000128_ses-000128_acq-fse_run-2001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 30])",CORONAL HASTE STIR T2,True,False,
+sub-000128,ses-000128,dwi,sub-000128_ses-000128_acq-bvalue_run-17001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 50])",AXIAL DIFUSION GANGLIOS b50_800_CALC 1500_ADC,True,False,
+sub-000128,ses-000128,dwi,sub-000128_ses-000128_acq-adc_run-14001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([150, 76, 27])",AXIAL DIFUSION PROSTATA b50_1400_ADC,True,False,
+sub-000104,ses-000104,anat,sub-000104_ses-000104_acq-fse_run-7_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 32])",sag T2 FRFSE,True,False,
+sub-000104,ses-000104,anat,sub-000104_ses-000104_acq-fse_run-6_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 26])",COR STIR FSE,True,False,
+sub-000104,ses-000104,anat,sub-000104_ses-000104_acq-fse_run-9_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 29])",ax T2,True,False,
+sub-000104,ses-000104,dwi,sub-000104_ses-000104_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 29, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000104,ses-000104,dwi,sub-000104_ses-000104_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 29, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000106,ses-000106,anat,sub-000106_ses-000106_acq-fse_run-6_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000106,ses-000106,anat,sub-000106_ses-000106_acq-fse_run-5_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000106,ses-000106,anat,sub-000106_ses-000106_acq-fse_run-8_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",ax T2,True,False,
+sub-000106,ses-000106,dwi,sub-000106_ses-000106_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000106,ses-000106,dwi,sub-000106_ses-000106_acq-bvalue_run-16_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000106,ses-000106,dwi,sub-000106_ses-000106_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000106,ses-000106,dwi,sub-000106_ses-000106_acq-bvalue_run-15_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000091,ses-000091,anat,sub-000091_ses-000091_acq-fse_run-2001_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([320, 320, 30])",t2_haste STIR_cor_p3_4mm,True,False,
+sub-000091,ses-000091,anat,sub-000091_ses-000091_acq-blade_run-7001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([256, 256, 56])",t2_blade_tra,True,False,
+sub-000091,ses-000091,anat,sub-000091_ses-000091_acq-blade_run-8001_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([320, 320, 30])",t2_tse_SAG_p2_384 blade,True,False,
+sub-000091,ses-000091,anat,sub-000091_ses-000091_acq-blade_run-9001_bp-prostate_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([320, 320, 25])",t2_tse_cor_p2_384 blade,True,False,
+sub-000091,ses-000091,anat,sub-000091_ses-000091_acq-fse_run-10001_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([384, 384, 30])",t2_tse_tra_p2_384 ESTRICTO,True,False,
+sub-000091,ses-000091,dwi,sub-000091_ses-000091_acq-bvalue_run-12001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 30])",resolve_diff_b50_1400_tra_p2_ADC,False,False,
+sub-000091,ses-000091,dwi,sub-000091_ses-000091_acq-bvalue_run-16001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",ep2d_diff GANGLIOS_b50_800_ CALC 1500 tra_p3_ADC,False,False,
+sub-000091,ses-000091,dwi,sub-000091_ses-000091_acq-bvalue_run-13001_bp-arm_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 140, 30])",resolve_diff_b50_1400_tra_p2_CALC_BVAL,False,False,
+sub-000091,ses-000091,dwi,sub-000091_ses-000091_acq-bvalue_run-17001_bp-prostate_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([268, 216, 44])",ep2d_diff GANGLIOS_b50_800_ CALC 1500 tra_p3_CALC_BVAL,False,False,
+sub-000069,ses-000069,anat,sub-000069_ses-000069_acq-fse_run-6_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000069,ses-000069,anat,sub-000069_ses-000069_acq-fse_run-8_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000069,ses-000069,anat,sub-000069_ses-000069_acq-fse_run-5_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000069,ses-000069,dwi,sub-000069_ses-000069_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000069,ses-000069,dwi,sub-000069_ses-000069_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000107,ses-000107,anat,sub-000107_ses-000107_acq-fse_run-10_bp-arm_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",ax T2,True,False,
+sub-000107,ses-000107,anat,sub-000107_ses-000107_acq-fse_run-16_bp-arm_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 28])",sag T2 FRFSE,True,False,
+sub-000107,ses-000107,anat,sub-000107_ses-000107_acq-fse_run-5_bp-arm_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 28])",sag T2 FRFSE,True,False,
+sub-000107,ses-000107,anat,sub-000107_ses-000107_acq-fse_run-8_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 32])",CORONAL STIR FSE,True,False,
+sub-000107,ses-000107,dwi,sub-000107_ses-000107_acq-bvalue_run-12_bp-arm_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000107,ses-000107,dwi,sub-000107_ses-000107_acq-bvalue_run-13_bp-arm_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000173,ses-000173,anat,sub-000173_ses-000173_acq-propeller_run-3_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 19])",Sag T2 PROPELLER,True,False,
+sub-000173,ses-000173,anat,sub-000173_ses-000173_acq-propeller_run-600_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 22])",FL:D/Cor T2 PROPELLER,True,False,
+sub-000173,ses-000173,anat,sub-000173_ses-000173_acq-propeller_run-300_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 19])",FL:D/Sag T2 PROPELLER,True,False,
+sub-000173,ses-000173,anat,sub-000173_ses-000173_acq-propeller_run-6_bp-abdomen_vp-cor_T2w.nii.gz,cor,T2w,"torch.Size([512, 512, 22])",Cor T2 PROPELLER,True,False,
+sub-000173,ses-000173,anat,sub-000173_ses-000173_acq-propeller_run-700_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",FL:D/Ax T2 PROPELLER,True,False,
+sub-000173,ses-000173,anat,sub-000173_ses-000173_acq-propeller_run-7_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",Ax T2 PROPELLER,True,False,
+sub-000173,ses-000173,anat,sub-000173_ses-000173_acq-propeller_run-4_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 46])",Ax T2 PROP. PELVIS,True,False,
+sub-000173,ses-000173,dwi,sub-000173_ses-000173_acq-bvalue_run-5_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 31, 2])",Ax DWI b50-800 PELVIS,True,True,Ax DWI b50-800 PELVIS
+sub-000173,ses-000173,dwi,sub-000173_ses-000173_acq-adc_run-500_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 31])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000173,ses-000173,dwi,sub-000173_ses-000173_acq-adc_run-801_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 21])",Exponential Apparent Diffusion Coefficient,False,False,
+sub-000173,ses-000173,dwi,sub-000173_ses-000173_acq-adc_run-800_bp-abdomen_vp-ax_dwi.nii.gz,ax,adc,"torch.Size([256, 256, 21])",Apparent Diffusion Coefficient (mm2/s),True,False,
+sub-000092,ses-000092,anat,sub-000092_ses-000092_acq-fse_run-8_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ax T2,True,False,
+sub-000092,ses-000092,anat,sub-000092_ses-000092_acq-fse_run-6_bp-prostate_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000092,ses-000092,anat,sub-000092_ses-000092_acq-fse_run-13_bp-prostate_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ax T2,True,False,
+sub-000092,ses-000092,anat,sub-000092_ses-000092_acq-fse_run-5_bp-prostate_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000092,ses-000092,dwi,sub-000092_ses-000092_acq-bvalue_run-10_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000092,ses-000092,dwi,sub-000092_ses-000092_acq-bvalue_run-15_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000092,ses-000092,dwi,sub-000092_ses-000092_acq-bvalue_run-11_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000092,ses-000092,dwi,sub-000092_ses-000092_acq-bvalue_run-14_bp-prostate_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000003,ses-000003,anat,sub-000003_ses-000003_acq-fse_run-10_bp-arm_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 26])",ax T2,True,False,
+sub-000003,ses-000003,anat,sub-000003_ses-000003_acq-fse_run-8_bp-arm_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 26])",sag T2 FRFSE,True,False,
+sub-000003,ses-000003,anat,sub-000003_ses-000003_acq-fse_run-7_bp-arm_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000003,ses-000003,dwi,sub-000003_ses-000003_acq-bvalue_run-12_bp-arm_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 26, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000111,ses-000111,anat,sub-000111_ses-000111_acq-fse_run-5_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 24])",sag T2 FRFSE,True,False,
+sub-000111,ses-000111,anat,sub-000111_ses-000111_acq-fse_run-6_bp-abdomen_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 24])",CORONAL STIR FSE,True,False,
+sub-000111,ses-000111,anat,sub-000111_ses-000111_acq-fse_run-8_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 28])",ax T2,True,False,
+sub-000111,ses-000111,dwi,sub-000111_ses-000111_acq-bvalue_run-10_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000111,ses-000111,dwi,sub-000111_ses-000111_acq-bvalue_run-11_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 28, 2])",ax dif b1500,True,True,ax dif b1500
+sub-000120,ses-000120,anat,sub-000120_ses-000120_acq-fse_run-8_bp-abdomen_vp-ax_T2w.nii.gz,ax,T2w,"torch.Size([512, 512, 24])",ax T2,True,False,
+sub-000120,ses-000120,anat,sub-000120_ses-000120_acq-fse_run-6_bp-abdomen_vp-sag_T2w.nii.gz,sag,T2w,"torch.Size([512, 512, 22])",sag T2 FRFSE,True,False,
+sub-000120,ses-000120,anat,sub-000120_ses-000120_acq-fse_run-5_bp-abdomen_vp-cor_stir.nii.gz,cor,stir,"torch.Size([512, 512, 34])",CORONAL STIR FSE,True,False,
+sub-000120,ses-000120,dwi,sub-000120_ses-000120_acq-bvalue_run-10_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif  b1000,True,True,ax dif  b1000
+sub-000120,ses-000120,dwi,sub-000120_ses-000120_acq-bvalue_run-11_bp-abdomen_vp-ax_dwi.nii.gz,ax,dwi,"torch.Size([256, 256, 24, 2])",ax dif b1500,True,True,ax dif b1500
