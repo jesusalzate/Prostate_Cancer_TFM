@@ -69,7 +69,7 @@ for i, row in tqdm(new_df.iterrows()):
         )
 
         dwi_json = dwi_path.replace(".nii.gz", ".json")
-        b_values = dwi_protocols[row.SeriesDescription]
+        b_values = dwi_protocols[row.protocol_association]
 
         # adc_map_name='_'.join(row.image.split('_')[:-1])+'_adc.nii.gz'
         adc_map_name = row.image.replace(
@@ -161,7 +161,7 @@ for i, row in tqdm(new_df.iterrows()):
                     "InstanceNumber": 0,
                     "InversionTime": None if "InversionTime" not in dwi_meta.keys() else dwi_meta["InversionTime"],
                     "LargestImagePixelValue": max(adc_map.get_fdata().flatten()),
-                    "Laterality": dwi_meta["Laterality"],
+                    "Laterality": "" if "Laterality" not in dwi_meta.keys() else dwi_meta["Laterality"],
                     "LongitudinalTemporalInformationModified": dwi_meta["LongitudinalTemporalInformationModified"],
                     "MRAcquisitionType": dwi_meta["MRAcquisitionType"],
                     "MagneticFieldStrength": dwi_meta["MagneticFieldStrength"],
@@ -181,8 +181,8 @@ for i, row in tqdm(new_df.iterrows()):
                     "PixelRepresentation": dwi_meta["PixelRepresentation"],
                     "PixelSpacing": dwi_meta["PixelSpacing"],
                     "PositionReferenceIndicator": "" if "PositionReferenceIndicator" not in dwi_meta.keys() else dwi_meta["PositionReferenceIndicator"],
-                    "ReceiveCoilName": dwi_meta["ReceiveCoilName"],
-                    "ReconstructionDiameter": dwi_meta["ReconstructionDiameter"],
+                    "ReceiveCoilName": "HD Cardiac" if "ReceiveCoilName" not in dwi_meta.keys() else dwi_meta["ReceiveCoilName"],
+                    "ReconstructionDiameter": 0 if "ReconstructionDiameter" not in dwi_meta.keys() else dwi_meta["ReconstructionDiameter"],
                     "RepetitionTime": dwi_meta["RepetitionTime"],
                     "Rows": dwi_meta["Rows"],
                     "SOPClassUID": dwi_meta["SOPClassUID"],
