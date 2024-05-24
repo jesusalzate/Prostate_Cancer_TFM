@@ -30,3 +30,19 @@
 
  06-05-2024 08:40:28:44 [pid=116341 tid=116341] ERROR  cufio_core:934 missing cuda symbols while dynamic loading
  06-05-2024 08:40:28:44 [pid=116341 tid=116341] ERROR  cufio_core:1074 cuFile initialization failed
+ 06-05-2024 11:10:04:645 [pid=125160 tid=125160] ERROR  cufio-cuda:159 unable to load, symbol  cuStreamWaitValue32_v2 
+
+ 06-05-2024 11:10:04:647 [pid=125160 tid=125160] ERROR  cufio_core:934 missing cuda symbols while dynamic loading
+ 06-05-2024 11:10:04:647 [pid=125160 tid=125160] ERROR  cufio_core:1074 cuFile initialization failed
+ 06-05-2024 11:15:32:858 [pid=125411 tid=125411] ERROR  cufio-cuda:159 unable to load, symbol  cuStreamWaitValue32_v2 
+
+ 06-05-2024 11:15:32:858 [pid=125411 tid=125411] ERROR  cufio_core:934 missing cuda symbols while dynamic loading
+ 06-05-2024 11:15:32:858 [pid=125411 tid=125411] ERROR  cufio_core:1074 cuFile initialization failed
+ 06-05-2024 11:16:48:630 [pid=125472 tid=125472] ERROR  cufio-cuda:159 unable to load, symbol  cuStreamWaitValue32_v2 
+
+ 06-05-2024 11:16:48:630 [pid=125472 tid=125472] ERROR  cufio_core:934 missing cuda symbols while dynamic loading
+ 06-05-2024 11:16:48:630 [pid=125472 tid=125472] ERROR  cufio_core:1074 cuFile initialization failed
+ 06-05-2024 11:20:02:772 [pid=125592 tid=125592] ERROR  cufio-cuda:159 unable to load, symbol  cuStreamWaitValue32_v2 
+
+ 06-05-2024 11:20:02:772 [pid=125592 tid=125592] ERROR  cufio_core:934 missing cuda symbols while dynamic loading
+ 06-05-2024 11:20:02:772 [pid=125592 tid=125592] ERROR  cufio_core:1074 cuFile initialization failed
