@@ -28,10 +28,6 @@ setting:
 # Image types to use: "Original" for unfiltered image, for possible filters, see documentation.
 imageType:
   Original: {} # for dictionaries / mappings, None values are not allowed, '{}' is interpreted as an empty dictionary
-  LoG:
-    # If the in-plane spacing is large (> 2mm), consider removing sigma value 1.
-    sigma: []
-  Wavelet: {}
 
 featureClass:
   shape:

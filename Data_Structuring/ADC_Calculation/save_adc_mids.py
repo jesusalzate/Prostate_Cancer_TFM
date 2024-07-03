@@ -47,13 +47,20 @@ dwi_protocols = {
     "DWI_EPI_SPAIR_TRA B2000": (0, 2000),  # Pattern change
     "ax dif b1000": (1000, 0),
     "ax dif  b1500": (1500, 0),
-    # "DW_Synthetic: AXI PELVIS DWI B50-800": None,  # Single channel
+    #"DW_Synthetic: AXI PELVIS DWI B50-800": None,  # Single channel
     "AXI PELVIS DWI B50-800": (50, 800),  # Pattern change
     "ax dif b1800": (1800, 0),
     "AX DWI b1500": (1500, 0),
     "Ax DWI b1500 FOV22 PRUEBA": (1500, 0),
     "ep2d_diff_tra_b0_b1000": (0, 1000),  # Pattern change
     "ax DWI b2000": (2000, 0),
+    #Definir#####################
+    "Ax DWI B50-800 Pelvis": (800, 50),
+    "AX DWI B800 PELVIS 24CORTES": (800, 0),
+    "AX DWI B600 PELVIS 24CORTES": (600, 0),
+    "AX DWI B600 PELVIS": (600, 0),
+    "DWI b1500 (NO ASSET)": (1500, 0),
+    "Ax DWI B1400 LESION": (1400, 0),
 }
 
 

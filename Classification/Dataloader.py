@@ -79,7 +79,7 @@ class Dataloader:
         self.config_args = config
 
     def __call__(self, partition: str):
-        if partition == "val":
+        if partition == "test":
             return None
         data = [
             {"t2": t2, "adc": adc, "dwi": dwi, "label": label}
