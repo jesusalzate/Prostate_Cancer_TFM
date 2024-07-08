@@ -25,7 +25,7 @@
             "test": "test"
         },
         "args": {
-            "path": "/home/jaalzate/Prostate_Cancer_TFM/Files/Own_data/Associated_Images_Unified.csv",
+            "path": "/home/jaalzate/Prostate_Cancer_TFM/Files/Own_data/Associated_Images_Unified_Derivatives.csv",
             "test_run": false,
             "config": {
                 "batch_size": 16,
@@ -69,7 +69,7 @@
     },
     "trainer": {
         "type": "ClassificationTrainer",
-        "epochs": 100,
+        "epochs": 150,
         "save_dir": "/home/jaalzate/Prostate_Cancer_TFM/Classification/logs/",
         "save_period": 33,
         "verbosity": 2,

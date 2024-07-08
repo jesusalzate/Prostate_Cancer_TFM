@@ -4,4 +4,5 @@
 *.pth
 /home/jaalzate/Prostate_Cancer_TFM/Classification/logs/classification/Prostate/
 /Bounding_Boxes/datasets/Prostate_Data
-Classification/logs/classification/Prostate/*/events.out.tfevents.*
+events.out.tfevents.*
+*.nii.gz
