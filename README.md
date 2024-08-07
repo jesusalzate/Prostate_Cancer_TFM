@@ -95,4 +95,6 @@ pip install -e .
 [2] J. A. Alzate-Grisales, A. Mora-Rubio, F. García-García, R. Tabares-Soto and M. De La Iglesia-Vayá, "SAM-UNETR: Clinically Significant Prostate Cancer Segmentation Using Transfer Learning From Large Model," in IEEE Access, vol. 11, pp. 118217-118228, 2023, doi: 10.1109/ACCESS.2023.3326882. keywords: {Image segmentation;Training;Principal component analysis;Transfer learning;Task analysis;Magnetic resonance imaging;Lesions;Artificial intelligence;deep learning;prostate cancer;semantic segmentation},
 
 
-
+## Grants and funding
+ 
+Funded by the Spanish Ministry of Economic Affairs and Digital Transformation (Project MIA.2021.M02.0005 TARTAGLIA, from the Recovery, Resilience, and Transformation Plan financed by the European Union through Next Generation EU funds). TARTAGLIA takes place under the R&D Missions in Artificial Intelligence program, which is part of the Spain Digital 2025 Agenda and the Spanish National Artificial Intelligence Strategy.
