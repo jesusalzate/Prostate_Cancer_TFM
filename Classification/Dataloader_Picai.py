@@ -19,7 +19,7 @@ class Dataloader:
         classes: list = ["noCsPCa", "CsPCa"],
         img_columns=["t2", "adc", "dwi"],
         test_run: bool = False,
-        input_shape: str = "(128, 128, 32)",
+        input_shape: str = "(128, 128, 128)",
         rand_prob: int = 0.5,
         partition_column: str = "partition",
         config: dict = config_default,
